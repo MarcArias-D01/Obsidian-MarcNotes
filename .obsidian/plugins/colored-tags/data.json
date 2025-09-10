@@ -32,7 +32,12 @@
     "dev": 4,
     "clean": 5,
     "location": 6,
-    "linux/location": 3
+    "linux/location": 3,
+    "python": 7,
+    "python/json": 1,
+    "python/json/create": 1,
+    "python/json/open": 2,
+    "python/json/edit": 3
   },
   "_version": 3
 }

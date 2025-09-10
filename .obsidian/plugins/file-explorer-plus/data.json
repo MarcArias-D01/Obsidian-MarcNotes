@@ -24,6 +24,13 @@
         "type": "DIRECTORIES",
         "pattern": "Linux Commands",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Python",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
