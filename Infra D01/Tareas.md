@@ -1,0 +1,4 @@
+- [ ] Crear tunnel IpSec de HetznerRobot con Azure Network
+- [x] Actualizar n8n wattoç ✅ 2025-09-08
+- [x] Limpieza MarcelDockerTests ✅ 2025-09-08
+- [ ] migrar de watto a waluigi (12 horas)

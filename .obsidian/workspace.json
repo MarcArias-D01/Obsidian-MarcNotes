@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "78f425e067b7297a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc62fcaf0c2a53f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32e7f51116990473",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3c3dd1618af5edb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c20616f415637f44",
+        "type": "tabs",
+        "dimension": 70.3030303030303,
+        "children": [
+          {
+            "id": "7b0673844deb8d51",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a66a968ce261cdd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd2f30399e791dd9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7a9aea0ff664db0d",
+        "type": "tabs",
+        "dimension": 29.6969696969697,
+        "children": [
+          {
+            "id": "865423ea665d5c19",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13e824ee44dd9ed9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0310f33da772595f",
+        "type": "tabs",
+        "dimension": 65.60077519379846,
+        "children": [
+          {
+            "id": "aeca335be5b82da3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cafa490fe5c3b6d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "de1c874af2da7e2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a7e0f3c21de24bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "037466dec138f03e",
+        "type": "tabs",
+        "dimension": 34.39922480620155,
+        "children": [
+          {
+            "id": "99dbd966a1ab41f3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "de1c874af2da7e2f",
+  "lastOpenFiles": [
+    "2025-09-09.md",
+    "Linux Commands/systemctl.md",
+    "Linux Commands/journalctl.md",
+    "Linux Commands/docker.md",
+    "Linux Commands/aws.md",
+    "Linux Commands/certbot.md",
+    "Linux Commands/Renovar certificado SSL.md",
+    "Infra D01/Tareas.md",
+    "REDD/Reunio Puig.md",
+    "REDD/Proyecto Data.md",
+    "Logs/2025-09-08.md",
+    "Althena/GTI/Resume.md",
+    "Althena/Tareas.md",
+    "Althena/Intro.md",
+    "Althena/GTI",
+    "ToDo.md",
+    "Decal/DecalIngenierIA/Tareas.md",
+    "Decal/Intro.md",
+    "Logs",
+    "assets",
+    "Infra D01",
+    "Decal/DecalIngenierIA/Intro.md",
+    "REDD/Tareas.md",
+    "REDD/Intro.md",
+    "Decal/DecalIngenierIA/Proyecto.md",
+    "Althena",
+    "REDD",
+    "Welcome.md",
+    "Decal/DecalIngenierIA",
+    "Decal",
+    "Linux Commands"
+  ]
+}

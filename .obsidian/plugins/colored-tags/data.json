@@ -1,0 +1,38 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "linux": 1,
+    "linux/clean": 1,
+    "linux/command": 2,
+    "linux/command/clean": 1,
+    "client": 2,
+    "client/decal": 1,
+    "client/decal/data": 1,
+    "client/decal/data/IA": 1,
+    "tasks": 3,
+    "client/redd": 2,
+    "client/redd/data": 1,
+    "linux/command/location": 2,
+    "linux/command/list": 3,
+    "linux/command/create": 4,
+    "linux/command/start": 5,
+    "client/althena": 3,
+    "client/redd/meetig": 2,
+    "linux/command/SSL": 6,
+    "linux/command/cloud": 7,
+    "dev": 4,
+    "clean": 5,
+    "location": 6,
+    "linux/location": 3
+  },
+  "_version": 3
+}

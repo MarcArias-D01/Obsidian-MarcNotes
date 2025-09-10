@@ -1,0 +1,1 @@
+- [ ] Puig reunión --> request limitm olt baix. Mirar Endpoints per productes nous. Motos noves.
