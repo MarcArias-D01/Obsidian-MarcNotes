@@ -1,10 +1,10 @@
-#linux/command/SSL 
+#linux/command/cerbot #linux/software/certbot #SSL 
 
 Certbot es una herramienta de **Let's Encrypt** que automatiza la obtención y renovación de certificados SSL/TLS gratuitos.  
 Se integra fácilmente con servidores web como **Nginx o Apache** para habilitar HTTPS.  
 Su objetivo es simplificar la gestión de certificados y mejorar la seguridad en sitios web. ✅
 
-En el caso de Driving01 se utiliza el certbot para AWS `route53`
+En el caso de Driving01 se utiliza el certbot para AWS `route53` #linux/software/certbot/install  
 
 ```bash
 sudo apt install python3-certbot-dns-route53 -y
@@ -18,7 +18,7 @@ Una vez instalado, Certbot se encarga de:
 - Guardarlos en `/etc/letsencrypt/`
 - Renovarlos automáticamente con `certbot renew`
 
-**ES IMPORTATNE SI SE HACE DESDE AWS TENER AWS INSTALADO EN EL SERVIDOR Y CONFIGURADO CON UN USUARIO QUE PUEDA ACCEDER A ROUTE53**
+**ES IMPORTATNE SI SE HACE DESDE AWS TENER AWS INSTALADO EN EL SERVIDOR Y CONFIGURADO CON UN USUARIO QUE PUEDA ACCEDER A ROUTE53** [[aws]]
 
 En Driving01 utilizamos el siguiente comando si hemos de crear el certificado por primera vez:
 

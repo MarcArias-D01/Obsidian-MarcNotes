@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/json.md",
+                "file": "Decal/DecalIngenierIA/Proyecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "json"
+              "title": "Proyecto"
+            }
+          },
+          {
+            "id": "10ee7d3eaad52a45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChCh/Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "952ca769cf64c6f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Althena/GTI/Proyecto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#client/decal/data",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,40 +235,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32e7f51116990473",
+  "active": "952ca769cf64c6f6",
   "lastOpenFiles": [
+    "Althena/GTI/Resume.md",
+    "Althena/GTI/Proyecto.md",
+    "Althena/Intro.md",
+    "Decal/DecalIngenierIA/Proyecto.md",
+    "Decal/DecalIngenierIA/Tareas.md",
+    "Decal/DecalIngenierIA/Intro.md",
+    "Decal/Intro.md",
+    "ChCh/Intro.md",
+    "Linux/nginx.md",
+    "Linux/journalctl.md",
+    "Linux/docker.md",
+    "Linux/certbot.md",
+    "Linux/aws.md",
+    "Linux/systemctl.md",
     "Python/json.md",
+    "ToDo.md",
+    "Logs/2025-09-08.md",
+    "Logs/2025-09-09.md",
+    "ChCh",
     "Python",
-    "2025-09-09.md",
-    "Linux Commands/systemctl.md",
-    "Linux Commands/journalctl.md",
-    "Linux Commands/docker.md",
-    "Linux Commands/aws.md",
-    "Linux Commands/certbot.md",
     "Linux Commands/Renovar certificado SSL.md",
     "Infra D01/Tareas.md",
     "REDD/Reunio Puig.md",
     "REDD/Proyecto Data.md",
-    "Logs/2025-09-08.md",
-    "Althena/GTI/Resume.md",
-    "Althena/Tareas.md",
-    "Althena/Intro.md",
     "Althena/GTI",
-    "ToDo.md",
-    "Decal/DecalIngenierIA/Tareas.md",
-    "Decal/Intro.md",
     "Logs",
     "assets",
     "Infra D01",
-    "Decal/DecalIngenierIA/Intro.md",
     "REDD/Tareas.md",
     "REDD/Intro.md",
-    "Decal/DecalIngenierIA/Proyecto.md",
     "Althena",
     "REDD",
     "Welcome.md",
     "Decal/DecalIngenierIA",
-    "Decal",
-    "Linux Commands"
+    "Decal"
   ]
 }

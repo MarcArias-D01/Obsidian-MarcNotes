@@ -1,5 +1,5 @@
 
-#linux/command 
+#linux/command/journalctl 
 
 `journalctl` es una herramienta de Linux para **ver y gestionar los logs del sistema y servicios** que usan `systemd`.  
 Permite **filtrar por unidad, fecha, nivel de severidad o procesos específicos**, facilitando el diagnóstico de problemas.  

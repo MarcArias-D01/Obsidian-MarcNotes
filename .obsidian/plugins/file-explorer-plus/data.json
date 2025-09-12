@@ -22,7 +22,7 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "Linux Commands",
+        "pattern": "Linux",
         "patternType": "STRICT"
       },
       {
