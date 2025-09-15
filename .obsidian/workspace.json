@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/aws.md",
+                "file": "Python/json.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aws"
+              "title": "json"
             }
           }
         ],
@@ -83,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#client/decal/data",
+                "query": "tag:#python/json/create",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -104,7 +104,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7a9aea0ff664db0d",
@@ -237,6 +238,7 @@
   },
   "active": "952ca769cf64c6f6",
   "lastOpenFiles": [
+    "Linux/aws.md",
     "Linux/certbot.md",
     "Linux/docker.md",
     "Linux/journalctl.md",
@@ -251,7 +253,6 @@
     "Decal/DecalIngenierIA/Intro.md",
     "Decal/Intro.md",
     "ChCh/Intro.md",
-    "Linux/aws.md",
     "ToDo.md",
     "Logs/2025-09-08.md",
     "Logs/2025-09-09.md",
