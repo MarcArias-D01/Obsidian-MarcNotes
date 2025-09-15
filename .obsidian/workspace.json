@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Althena/GTI/Proyecto.md",
+                "file": "Linux/aws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proyecto"
-            }
-          },
-          {
-            "id": "c5a009c6d5dd493e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.9.12"
+              "title": "aws"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,26 +231,27 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Crear nueva base": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5a009c6d5dd493e",
+  "active": "952ca769cf64c6f6",
   "lastOpenFiles": [
-    "Althena/GTI/Resume.md",
+    "Linux/certbot.md",
+    "Linux/docker.md",
+    "Linux/journalctl.md",
+    "Linux/nginx.md",
+    "Linux/systemctl.md",
+    "Python/json.md",
     "Althena/GTI/Proyecto.md",
+    "Althena/GTI/Resume.md",
     "Althena/Intro.md",
     "Decal/DecalIngenierIA/Proyecto.md",
     "Decal/DecalIngenierIA/Tareas.md",
     "Decal/DecalIngenierIA/Intro.md",
     "Decal/Intro.md",
     "ChCh/Intro.md",
-    "Linux/nginx.md",
-    "Linux/journalctl.md",
-    "Linux/docker.md",
-    "Linux/certbot.md",
     "Linux/aws.md",
-    "Linux/systemctl.md",
-    "Python/json.md",
     "ToDo.md",
     "Logs/2025-09-08.md",
     "Logs/2025-09-09.md",
