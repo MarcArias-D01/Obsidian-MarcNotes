@@ -16,7 +16,7 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
-Se tendran que configurar las credenciales para un usuario: #linux/command/aws/configure
+Se tendrán que configurar las credenciales para un usuario: #linux/command/aws/configure
 
 ```bash
 aws configure
