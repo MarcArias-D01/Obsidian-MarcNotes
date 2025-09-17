@@ -249,10 +249,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7b0673844deb8d51",
+  "active": "c9a825b469a19a4d",
   "lastOpenFiles": [
-    "Python/json.md",
+    "ChCh/Intro.md",
     "ChCh/Foundations and PowerServices.md",
+    "Python/json.md",
     "Linux/aws.md",
     "Linux/certbot.md",
     "Linux/docker.md",
@@ -266,7 +267,6 @@
     "Decal/DecalIngenierIA/Tareas.md",
     "Decal/DecalIngenierIA/Intro.md",
     "Decal/Intro.md",
-    "ChCh/Intro.md",
     "ToDo.md",
     "Logs/2025-09-08.md",
     "Logs/2025-09-09.md",
