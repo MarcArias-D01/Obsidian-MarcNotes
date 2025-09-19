@@ -67,7 +67,12 @@
     "client/althena/gti": 2,
     "client/decal/A": 2,
     "client/decal/IA": 3,
-    "python/json/text": 5
+    "python/json/text": 5,
+    "client/chupachups": 4,
+    "powerautomate": 10,
+    "ssis": 11,
+    "client/chupachups/error": 1,
+    "client/chupachups/sellout": 2
   },
   "_version": 3
 }
