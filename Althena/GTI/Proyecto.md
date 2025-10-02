@@ -7,6 +7,10 @@ Partes del proyecto:
 
 - [x] Intro Marc a Althena ✅ 2025-09-08
 - [x] Althena Improvements (systemd Api) ✅ 2025-09-08
-- [ ] Althena Improvement (clasificación mejorada)
-- [ ] ⛔ Arreglar etiquetas mal etiquetadas por el modelo
-- [ ] Althena mejorar API
+- [x] Althena Improvement (clasificación mejorada) ✅ 2025-10-02
+- [x] ⛔ Arreglar etiquetas mal etiquetadas por el modelo fase 1 ✅ 2025-10-02
+- [x] Althena mejorar API fase 1 ✅ 2025-10-02
+- [ ] Migrar API a waluigi
+- [ ] Testing API
+- [ ] ⛔ Detector de keywords Mejorarlo fase 1
+- [ ] Creación Qdrant DB 

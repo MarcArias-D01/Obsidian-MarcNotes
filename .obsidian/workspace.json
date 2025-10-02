@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Infra D01/Tareas.md",
+                "file": "Linux/docker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tareas"
+              "title": "docker"
             }
           }
         ],
@@ -251,13 +251,14 @@
   },
   "active": "c9a825b469a19a4d",
   "lastOpenFiles": [
-    "ToDo.md",
+    "Linux/ip.md",
+    "ChCh/Foundations and PowerServices.md",
     "Althena/GTI/Proyecto.md",
+    "Infra D01/Tareas.md",
+    "ToDo.md",
     "Althena/Intro.md",
     "Althena/GTI/Resume.md",
-    "ChCh/Foundations and PowerServices.md",
     "ChCh/Intro.md",
-    "Linux/ip.md",
     "Python/json.md",
     "Linux/aws.md",
     "Linux/certbot.md",
@@ -274,7 +275,6 @@
     "ChCh",
     "Python",
     "Linux Commands/Renovar certificado SSL.md",
-    "Infra D01/Tareas.md",
     "REDD/Reunio Puig.md",
     "REDD/Proyecto Data.md",
     "Althena/GTI",
