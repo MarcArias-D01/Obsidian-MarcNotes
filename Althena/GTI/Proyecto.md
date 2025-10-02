@@ -7,6 +7,6 @@ Partes del proyecto:
 
 - [x] Intro Marc a Althena ✅ 2025-09-08
 - [x] Althena Improvements (systemd Api) ✅ 2025-09-08
-- [ ] Althena Imporvement (clasificación mejorada)
+- [ ] Althena Improvement (clasificación mejorada)
 - [ ] ⛔ Arreglar etiquetas mal etiquetadas por el modelo
 - [ ] Althena mejorar API
