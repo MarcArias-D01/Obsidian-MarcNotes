@@ -67,12 +67,14 @@
             "id": "f1dea9690e166556",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "ChCh/Foundations and PowerServices.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.9.14"
+              "icon": "lucide-file",
+              "title": "Foundations and PowerServices"
             }
           }
         ],

@@ -30,4 +30,5 @@ Errores encontrados: #client/chupachups/error
 - [x] ⛔ 22-09-2025 En Alcampo algo ha pasado con la ETL no se ha actualizado correctamente. ✅ 2025-10-02
 - [x] ⏬ 25-09-2025 Lucia quiere machacar valores de SKU por unos que hay en un excel que ha pasado a la tabla de Logista_PRD ✅ 2025-10-02
 - [x] ⛔ 01-10-2025 En Conway el Adri destruyo una columna y el proceso fallaba. ✅ 2025-10-02
-- [ ] 🔁 Mirar de reducir los datos en cada columna mediante FK (conversar con Adri)
+- [ ] 🔁 Mirar de reducir los datos en cada columna mediante FK (conversar con Adri).
+- [ ] 🔼 03-10-2025 Añadir la tabla de Logs que se usa actualmente en la ETL platform.
