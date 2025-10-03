@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "docker"
             }
+          },
+          {
+            "id": "f1dea9690e166556",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.9.14"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -249,7 +261,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9a825b469a19a4d",
+  "active": "f1dea9690e166556",
   "lastOpenFiles": [
     "Linux/ip.md",
     "ChCh/Foundations and PowerServices.md",
