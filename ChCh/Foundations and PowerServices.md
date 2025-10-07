@@ -35,4 +35,6 @@ Errores encontrados: #client/chupachups/error
 - [x] 🔁 Mirar de reducir los datos en cada columna mediante FK (conversar con Adri). ✅ 2025-10-06
 - [x] 🔼 03-10-2025 Añadir la tabla de Logs que se usa actualmente en la ETL platform. ✅ 2025-10-06
 - [ ] 2025-10-06 ⏫ Testear en Server Sagitario.
-- [ ] 🔺 2025-10-06 Ejecución SSI Octubre
+- [x] 🔺 2025-10-06 Ejecución SSI Octubre ✅ 2025-10-06
+- [ ] 2025-10-06 Faltan datos de clintes SSIS
+- [ ] 🔺2025-10-06 Altimiras los datos que sube al FTP siempre son de junio...
