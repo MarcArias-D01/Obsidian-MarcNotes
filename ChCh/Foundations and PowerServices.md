@@ -26,7 +26,7 @@ Errores encontrados: #client/chupachups/error
 - [ ] ⛔16-09-2025 en la tabla albaranesTT hay duplicados, tanto con clavePK o porque la clavePK es NULL o ''. Por suerte son valores del año 2023 o inferior.
 - [x] ⛔ 17-09-2025 EN SO_Belros el proceso de SSIS utilizado hasta la fecha originaba errores de varios ámbitos como duplicados, fechas mal formateadas ,etc etc... ✅ 2025-09-19
 - [ ] ⛔ 18-09-2025 En SO_ECI puede haber algunos errores debido al cruce que se hace con `PRD_Product`. Cuando esta Categoría tiene el valor de **Chupa Chups PVM Mixed Categories**, **Mentos PVM Mixed Categories** o **Smint PVM Mixed Categories** la categoría aparece como `Categories` Esta mal debería ser siempre GUM o CANDY. 23-09-2025 Rosa quiere una lista para que nos diga cuales sustituir por Candy o Gum.
-- [ ] ⛔ 19-09-2025 En SO_ECI_POS no se actualiza automáticamente. Por ende faltan puntos de venta de el corte ingles tendríamos que ver como se esta haciendo la ETL para poder hacer algún proceso para añadirlos automáticamente. Actualmente no pasa esto y aparecen registros en SO_ECI sin un match con SO_ECI_POS.
+- [x] ⛔ 19-09-2025 En SO_ECI_POS no se actualiza automáticamente. Por ende faltan puntos de venta de el corte ingles tendríamos que ver como se esta haciendo la ETL para poder hacer algún proceso para añadirlos automáticamente. Actualmente no pasa esto y aparecen registros en SO_ECI sin un match con SO_ECI_POS. ✅ 2025-10-14
 - [x] ⛔ 22-09-2025 En Alcampo algo ha pasado con la ETL no se ha actualizado correctamente. ✅ 2025-10-06
 - [x] ⏬ 25-09-2025 Lucia quiere machacar valores de SKU por unos que hay en un excel que ha pasado a la tabla de Logista_PRD ✅ 2025-09-25
 - [x] ⛔ 22-09-2025 En Alcampo algo ha pasado con la ETL no se ha actualizado correctamente. ✅ 2025-10-02
@@ -34,8 +34,9 @@ Errores encontrados: #client/chupachups/error
 - [x] ⛔ 01-10-2025 En Conway el Adri destruyo una columna y el proceso fallaba. ✅ 2025-10-02
 - [x] 🔁 Mirar de reducir los datos en cada columna mediante FK (conversar con Adri). ✅ 2025-10-06
 - [x] 🔼 03-10-2025 Añadir la tabla de Logs que se usa actualmente en la ETL platform. ✅ 2025-10-06
-- [ ] 2025-10-06 ⏫ Testear en Server Sagitario.
+- [x] 2025-10-06 ⏫ Testear en Server Sagitario. ✅ 2025-10-14
 - [x] 🔺 2025-10-06 Ejecución SSI Octubre ✅ 2025-10-06
-- [ ] 2025-10-06 Faltan datos de clintes SSIS
+- [ ] 2025-10-06 Faltan datos de clintes SSIS.
 - [ ] 🔺2025-10-06 Altimiras los datos que sube al FTP siempre son de junio...
 - [ ] 🔼 2025-10-07 Lucia necesita ayuda, quiere una tabla con datos agregados de conway. logista y belros.
+- [ ] 🔺 Control Nuevos CodMayorista en cada carga. Informar.
