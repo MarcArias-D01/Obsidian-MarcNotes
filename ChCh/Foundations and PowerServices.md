@@ -38,3 +38,4 @@ Errores encontrados: #client/chupachups/error
 - [x] 🔺 2025-10-06 Ejecución SSI Octubre ✅ 2025-10-06
 - [ ] 2025-10-06 Faltan datos de clintes SSIS
 - [ ] 🔺2025-10-06 Altimiras los datos que sube al FTP siempre son de junio...
+- [ ] 🔼 2025-10-07 Lucia necesita ayuda, quiere una tabla con datos agregados de conway. logista y belros.
