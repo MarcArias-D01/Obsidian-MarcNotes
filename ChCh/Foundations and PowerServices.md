@@ -47,8 +47,8 @@ Se reciben en el FTP de Sagitario EDI_ECI/Files
 - [ ] 🔺 Ejecutado 10-2025
 
 ### Dia
-Follon gordo...
-- [ ] 🔺 Ejecutado 10-2025
+Follón gordo...
+- [ ] 🔺 Ejecutado 10-2025 Mirar de ejecutar next week 
 
 ### Carrefour
 Entrar en su portal y descargar
