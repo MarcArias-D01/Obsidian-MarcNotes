@@ -40,7 +40,7 @@ Entrar al FTP de Eroski y descargar los archivos
 Seleccionamos Eroski IRI y se cargan dos carpetas: Up y Down. La información se encuentra en la carpeta Down. Se descargan los ficheros y estos se guardan en Temp/Nielsen. Se copian y se pegan en SelloutOT/Eroski/Ficheros (2).
 Se borra el fichero FINAL.txt (3) y se renombra el fichero Extract Chupa Chups E3C_Star Schema_Mensual_aaaa-mm-12-00-dd-mm_FINAL.txt como FINAL.txt (4). El fichero Productos.txt se borra (5) y Extract Chupa Chups E3C_Star Schema_Mensual_aaaa-mm-12-00-dd-mm_Product_Meta.txt se renombra como Productos.txt (6). Se borra el fichero Clientes.txt (7) y Extract Chupa Chups E3C_Star Schema_Mensual_aaaa-mm-12-00-dd-mm_Geographi_Meta.txt se renombra como Clientes.txt (8). Borramos el fichero Extract Chupa Chups E3C_Star Schema_Mensual_aaaa-mm-12-00-dd-mm_Time_Meta.txt (9)
 
-- [ ] 🔺 Ejecutado 10-2025
+- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-17
 
 ### ECI
 Se reciben en el FTP de Sagitario EDI_ECI/Files
