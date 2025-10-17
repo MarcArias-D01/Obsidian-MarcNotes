@@ -33,7 +33,7 @@ ______
 ## Tercera Semana de Mes
 ### Alcampo 
 Llegan por mail Rosa o Miquel
-- [ ] 🔺 Ejecutado 10-2025
+- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-17
 
 ### Eroski
 Entrar al FTP de Eroski y descargar los archivos
