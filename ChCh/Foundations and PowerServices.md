@@ -43,12 +43,12 @@ Se borra el fichero FINAL.txt (3) y se renombra el fichero Extract Chupa Chups E
 - [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-17
 
 ### ECI
-Se reciben en el FTP de Sagitario EDI_ECI/Files
-- [ ] 🔺 Ejecutado 10-2025
+Se reciben en el FTP de Sagitario EDI_ECI/Files. Hay un proce que se ejcuta todos los dias alas 3 - 4 am descubrir que es el PwoerAutoamte no va
+- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-20
 
 ### Dia
 Follón gordo...
-- [ ] 🔺 Ejecutado 10-2025 Mirar de ejecutar next week 
+- [x] 🔺 Ejecutado 10-2025 Mirar de ejecutar next week ✅ 2025-10-20
 
 ### Carrefour
 Entrar en su portal y descargar
@@ -85,3 +85,4 @@ Errores encontrados: #client/chupachups/error
 - [x] 🔺 Control Nuevos CodTipologias en cada carga. Informar. ✅ 2025-10-14
 - [ ] 🔺 Mirar Txt vacios
 - [ ] 🔼  Rosa quire añadir en la vista Eroski
+- [ ] 🔺 ChCh cargar todos los csv son diarios.
