@@ -79,10 +79,11 @@ Errores encontrados: #client/chupachups/error
 - [x] 🔼 03-10-2025 Añadir la tabla de Logs que se usa actualmente en la ETL platform. ✅ 2025-10-06
 - [x] 2025-10-06 ⏫ Testear en Server Sagitario. ✅ 2025-10-14
 - [x] 🔺 2025-10-06 Ejecución SSI Octubre ✅ 2025-10-06
-- [ ] 2025-10-06 Faltan datos de clintes SSIS.
+- [x] 2025-10-06 Faltan datos de clintes SSIS. ✅ 2025-10-21
 - [x] 🔺2025-10-06 Altimiras los datos que sube al FTP siempre son de junio... ✅ 2025-10-17
-- [ ] 🔼 2025-10-07 Lucia necesita ayuda, quiere una tabla con datos agregados de conway. logista y belros.
+- [x] 🔼 2025-10-07 Lucia necesita ayuda, quiere una tabla con datos agregados de conway. logista y belros. ✅ 2025-10-21
 - [x] 🔺 Control Nuevos CodTipologias en cada carga. Informar. ✅ 2025-10-14
-- [ ] 🔺 Mirar Txt vacios
-- [ ] 🔼  Rosa quire añadir en la vista Eroski
-- [ ] 🔺 ChCh cargar todos los csv son diarios.
+- [x] 🔺 Mirar Txt vacios ✅ 2025-10-21
+- [x] 🔼  Rosa quire añadir en la vista Eroski ✅ 2025-10-21
+- [x] 🔺 ChCh cargar todos los csv son diarios. ✅ 2025-10-21
+- [ ] 🔼 Mirar que paso en Agosto de 2024 ECI
