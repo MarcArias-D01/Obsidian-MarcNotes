@@ -87,3 +87,6 @@ Errores encontrados: #client/chupachups/error
 - [x] 🔼  Rosa quire añadir en la vista Eroski ✅ 2025-10-21
 - [x] 🔺 ChCh cargar todos los csv son diarios. ✅ 2025-10-21
 - [ ] 🔼 Mirar que paso en Agosto de 2024 ECI
+- [ ] Proceso Carrefour importar datos antiguos
+- [ ] Proceso Eorski importar datos antiguos
+- [ ] Proceso Alcampo importat datos antiguos
