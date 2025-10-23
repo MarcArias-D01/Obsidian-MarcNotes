@@ -4,67 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "fc62fcaf0c2a53f2",
+        "id": "f468a47cba60bef7",
         "type": "tabs",
         "children": [
           {
-            "id": "32e7f51116990473",
+            "id": "35b7b02ce2f5ca84",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decal/DecalIngenierIA/Proyecto.md",
+                "file": "ChCh/Foundations and PowerServices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proyecto"
+              "title": "Foundations and PowerServices"
             }
           },
           {
-            "id": "10ee7d3eaad52a45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intro"
-            }
-          },
-          {
-            "id": "952ca769cf64c6f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/json.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "json"
-            }
-          },
-          {
-            "id": "c9a825b469a19a4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/docker.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "docker"
-            }
-          },
-          {
-            "id": "f1dea9690e166556",
+            "id": "31fb907f21a71ed0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +60,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -111,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux",
+                "query": "tag:#python/json/create",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +104,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Graph view"
             }
           }
         ]
@@ -207,7 +165,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
@@ -251,44 +209,45 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1dea9690e166556",
+  "active": "31fb907f21a71ed0",
   "lastOpenFiles": [
-    "Linux/ip.md",
+    "conflict-files-obsidian-git.md",
     "ChCh/Foundations and PowerServices.md",
-    "Althena/GTI/Proyecto.md",
-    "Infra D01/Tareas.md",
-    "ToDo.md",
-    "Althena/Intro.md",
-    "Althena/GTI/Resume.md",
-    "ChCh/Intro.md",
+    "Linux/ip.md",
     "Python/json.md",
+    "ChCh/Intro.md",
+    "Decal/DecalIngenierIA/Proyecto.md",
     "Linux/aws.md",
     "Linux/certbot.md",
     "Linux/docker.md",
     "Linux/journalctl.md",
     "Linux/nginx.md",
     "Linux/systemctl.md",
-    "Decal/DecalIngenierIA/Proyecto.md",
+    "Althena/GTI/Proyecto.md",
+    "Althena/GTI/Resume.md",
+    "Althena/Intro.md",
     "Decal/DecalIngenierIA/Tareas.md",
     "Decal/DecalIngenierIA/Intro.md",
     "Decal/Intro.md",
+    "ToDo.md",
     "Logs/2025-09-08.md",
     "Logs/2025-09-09.md",
     "ChCh",
     "Python",
     "Linux Commands/Renovar certificado SSL.md",
+    "Infra D01/Tareas.md",
     "REDD/Reunio Puig.md",
     "REDD/Proyecto Data.md",
     "Althena/GTI",
@@ -296,7 +255,6 @@
     "assets",
     "Infra D01",
     "REDD/Tareas.md",
-    "REDD/Intro.md",
     "Althena",
     "REDD",
     "Decal/DecalIngenierIA",
