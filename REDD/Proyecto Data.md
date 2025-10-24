@@ -6,3 +6,6 @@ git-products-procesing: [Driving01/REDD-Products-Processing: ETL for the process
 git-fuentes-externas:[Driving01/REDD-ExtraccionFuentesExternas](https://github.com/Driving01/REDD-ExtraccionFuentesExternas)
 
 
+
+El Servidor de REDD donde se ejecutan los catlaogos tiene una GUI que es gdm3
+

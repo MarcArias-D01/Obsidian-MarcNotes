@@ -79,7 +79,11 @@
     "windows/command": 1,
     "SQL": 13,
     "SQL/command": 1,
-    "SQL/command/query": 1
+    "SQL/command/query": 1,
+    "li": 14,
+    "linux/command/lsof": 14,
+    "linux/command/search_process": 15,
+    "linux/command/searchProcess": 16
   },
   "_version": 3
 }
