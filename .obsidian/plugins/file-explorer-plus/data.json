@@ -31,6 +31,20 @@
         "type": "DIRECTORIES",
         "pattern": "Python",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Win",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "SQL",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [

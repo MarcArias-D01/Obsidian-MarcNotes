@@ -59,7 +59,7 @@ ___
 Ejecutar cada semana
 - [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-09
 - [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-16
-- [ ] 🔺 Ejecutado 10-2025
+- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-23
 - [ ] 🔺 Ejecutado 10-2025
 ___
 
@@ -95,3 +95,4 @@ Errores encontrados: #client/chupachups/error
 - [ ] Proceso Carrefour importar datos antiguos
 - [ ] Proceso Eorski importar datos antiguos
 - [ ] Proceso Alcampo importat datos antiguos
+- [ ] 🔺 ECI 2024 Agost y enseñas en null

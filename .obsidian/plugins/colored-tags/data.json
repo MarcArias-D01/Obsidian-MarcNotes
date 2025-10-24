@@ -74,7 +74,12 @@
     "client/chupachups/error": 1,
     "client/chupachups/sellout": 2,
     "linux/command/ip": 13,
-    "client/eninter": 5
+    "client/eninter": 5,
+    "windows": 12,
+    "windows/command": 1,
+    "SQL": 13,
+    "SQL/command": 1,
+    "SQL/command/query": 1
   },
   "_version": 3
 }
