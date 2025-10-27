@@ -40,6 +40,23 @@ Restart=on-failure
 WantedBy=default.target
 ```
 
+Otro ejemplo
+
+```ini
+[Unit]
+Description=FastAPI/Uvicorn Service
+After=network.target
+
+[Service]
+WorkingDirectory=/home/althena/ALTHENA-GTI-API-Labeler
+ExecStart=/home/althena/ALTHENA-GTI-API-Labeler/.venv/bin/python /home/althena/ALTHENA-GTI-API-Labeler/main.py
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
+```
+
 #linux/command/systemctl/start 
 
 Para ejecutar el procedure. Ejecutar uno a uno

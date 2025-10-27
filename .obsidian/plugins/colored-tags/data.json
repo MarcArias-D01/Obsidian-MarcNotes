@@ -81,7 +81,16 @@
     "SQL/command": 1,
     "SQL/command/query": 1,
     "windows": 13,
-    "windows/command": 1
+    "windows/command": 1,
+    "l": 14,
+    "S": 15,
+    "Postgres": 16,
+    "PostgreSQL": 17,
+    "SQL/PostgreSQL": 2,
+    "SQL/M": 3,
+    "SQL/MSQL": 4,
+    "SQ": 18,
+    "MS": 19
   },
   "_version": 3
 }

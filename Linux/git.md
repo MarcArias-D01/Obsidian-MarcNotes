@@ -1,12 +1,17 @@
+#linux/software 
+Para añadir varios usuarios en el gitconf dependiendo de el repositorio que estés trabajando. 
 
-Para añadir varios usuarios en el gitconf dependiendo de el repositorio que estes trabajando. Crea un gitconfig para ese usuario con 
+Crea un gitconfig para ese usuario en la ruta `~/.` que sea `~/.gitconfig-user`
+
 ```bash
-git config user.name "Otro Nombre"
-git config user.email "otro@email.com"
-
+[user]
+        name = usuario-de-git
+        email = usuario@driving01.com
 ```
+
+Seguidamente en el `~/.gitconfig` añade lo siguiente al final de todo.  Lo usuarios se cargan de arriba a abajo.
 
 ```bash
 [includeIf "gitdir:/ruta/a/repositorio/"]
-	path = /root/.gitconfig-usuario
+	path = /root/.gitconfig-user
 ```
