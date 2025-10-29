@@ -36,14 +36,14 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "SQL",
+        "pattern": "Win",
         "patternType": "STRICT"
       },
       {
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "Win",
+        "pattern": "SQL",
         "patternType": "STRICT"
       }
     ],
