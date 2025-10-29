@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "lsof"
             }
-          },
-          {
-            "id": "791967b3322e9ae1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "791967b3322e9ae1",
+  "active": "c05732a9546d0214",
   "lastOpenFiles": [
-    "Linux/lsof.md",
     "conflict-files-obsidian-git.md",
+    "Linux/lsof.md",
     "Linux/systemctl.md",
     "SQL/Creación Columnas Tabla.md",
     "SQL/Eliminar Logs MSQL.md",
