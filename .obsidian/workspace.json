@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChCh/Foundations and PowerServices.md",
+                "file": "Linux/lsof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foundations and PowerServices"
+              "title": "lsof"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "497e15b8a2a00aad",
   "lastOpenFiles": [
+    "ChCh/Foundations and PowerServices.md",
     "ChCh/Intro.md",
     "Linux/aws.md",
     "Linux/git.md",
@@ -233,7 +234,6 @@
     "SQL/Eliminar todas las tablas.md",
     "SQL/Eliminar Constraints.md",
     "REDD/Proyecto Data.md",
-    "ChCh/Foundations and PowerServices.md",
     "SQL",
     "Win",
     "Eninter",
