@@ -5,7 +5,7 @@
 Permite **filtrar por unidad, fecha, nivel de severidad o procesos específicos**, facilitando el diagnóstico de problemas.  
 Se puede usar en tiempo real (`-f`) o para **extraer información histórica**, funcionando como un “visor centralizado de logs”.
 
-#clean
+#linux/clean
 
 ```bash
 sudo journalctl --vacuum-time=7d

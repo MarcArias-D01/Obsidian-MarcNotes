@@ -7,7 +7,7 @@ Se usa para:
 - Habilitarlos o deshabilitarlos en el arranque (`systemctl enable/disable`).
 - Ver el estado de un servicio (`systemctl status nombre_servicio`).
 
-#linux/command/systemctl/location
+#linux/location
 Ubicación normal si se ejecuta como un usuario:
 ```bash
 ls ~/.config/systemd/user/
@@ -18,7 +18,7 @@ Listar los servicio a los que tiene acceso el usuario
 systemctl --user list-units
 ```
 
-#linux/command/systemctl/create  
+#linux/create  
 
 Crear un procedimiento nuevo
 ```bash
@@ -57,7 +57,7 @@ RestartSec=3
 WantedBy=multi-user.target
 ```
 
-#linux/command/systemctl/start 
+#linux/init 
 
 Para ejecutar el procedure. Ejecutar uno a uno
 ```bash

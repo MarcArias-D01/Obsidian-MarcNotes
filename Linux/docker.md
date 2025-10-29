@@ -7,8 +7,8 @@ Docker es **una plataforma para desarrollar, enviar y ejecutar aplicaciones dent
 - Gracias a los contenedores, puedes ejecutar tu aplicación en cualquier máquina que tenga Docker, sin preocuparte por diferencias entre sistemas.
 
 
-Para ejecutar un `compose.yml` con el archivo `.env` especifico: #linux/command/docker/compose/env
-
+Para ejecutar un `compose.yml` con el archivo `.env` especifico: #linux/command/docker/compose
+#linux/env
 ```bash
 docker compose --env-file .env.dev up
 ```

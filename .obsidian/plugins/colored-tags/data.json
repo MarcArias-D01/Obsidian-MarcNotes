@@ -85,7 +85,15 @@
     "linux/command/search_process": 15,
     "linux/command/searchProcess": 16,
     "SQL/MSQL": 2,
-    "SQL/PostgreSQL": 3
+    "SQL/PostgreSQL": 3,
+    "linux/install": 5,
+    "linux/configure": 6,
+    "linux/env": 7,
+    "linux/software/git": 4,
+    "linux/config": 8,
+    "linux/conf": 9,
+    "linux/create": 10,
+    "linux/init": 11
   },
   "_version": 3
 }

@@ -6,7 +6,7 @@
 - Manejar **balanceo de carga**, **caché**, **SSL/TLS** y **autenticación**.
 - Es ligero, eficiente y soporta miles de conexiones concurrentes con bajo consumo de recursos.
 
-#linux/software/nginx/conf
+#linux/configure
 
 Para backends interactivos o con streaming:
 
@@ -84,7 +84,8 @@ server {
 }
 ```
 
-#linux/software/nginx/auth   
+## AUTH
+
 EL último ejemplo tiene basic auth. Para crear la auth seguir los siguientes pasos:
 
 - Instalar `htpasswd`

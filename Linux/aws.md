@@ -7,7 +7,8 @@ Con ella puedes:
 - Automatizar tareas con scripts.
 - Evitar depender solo de la consola web de AWS.
 
-Instalar AWS CLI #linux/software/aws/install
+Instalar AWS CLI  
+#linux/install 
 ```bash
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 
@@ -16,8 +17,8 @@ unzip awscliv2.zip
 sudo ./aws/install
 ```
 
-Se tendrán que configurar las credenciales para un usuario: #linux/command/aws/configure
-
+Se tendrán que configurar las credenciales para un usuario: 
+#linux/configure
 ```bash
 aws configure
 ```
@@ -28,8 +29,8 @@ Te pedirá:
 - **Default region name** → ej. `us-east-1` o `eu-west-1`.
 - **Default output format** → `json`, `table` o `text` (recomiendo `json`).
 
-Esto genera el archivo de configuración en: #linux/command/aws/location 
-
+Esto genera el archivo de configuración en: 
+#linux/location 
 ```bash
 ~/.aws/credentials
 ~/.aws/config
