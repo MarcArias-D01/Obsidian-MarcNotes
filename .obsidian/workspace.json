@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/lsof.md",
+                "file": "Eninter/Presentación Eninter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lsof"
+              "title": "Presentación Eninter"
             }
           }
         ]
@@ -208,13 +208,13 @@
   },
   "active": "497e15b8a2a00aad",
   "lastOpenFiles": [
+    "Linux/lsof.md",
     "ChCh/Foundations and PowerServices.md",
     "ChCh/Intro.md",
     "Linux/aws.md",
     "Linux/git.md",
     "Linux/systemctl.md",
     "Linux/nginx.md",
-    "Linux/lsof.md",
     "Linux/journalctl.md",
     "Linux/ip.md",
     "Linux/docker.md",

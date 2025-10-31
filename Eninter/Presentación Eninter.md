@@ -26,3 +26,16 @@ Portal TAFF
 Enseñar libreria de componenets Programación
 
 
+___
+
+
+- Experiència Administració de Finques             NLP                                (etiquetatge automàtic d'incidències amb processament natural del llenguatge)
+
+- Facility Management - Predicció  - Predicció mitjançant IoT
+
+- Scrapping catalegs peces recanvis - Masterfile - (processament de descarregues automàtiques i alimentació automàtica d’una base de dades per vendes)
+
+- Visio per computació / ORM Hiflo - CV - Computer Vision
+
+- Cognigy - Bots - Bots amb NLP
+
