@@ -15,52 +15,6 @@ Se basa de momento en dos procesos. La carga de albaranesTT y TMPStocks. Los dis
 
 Actualmente hay errores cuando se ejecutan algunos comandos. Las tablas están mal formuladas creando problemas de rendimiento graves en SQL. También hace falta un proceso de comprobación de datos. Actualmente se pueden estar introduciendo datos duplicados o mal formateados. Se corrige todo a mano y a veces rehaciendo el proceso de ETL de algún archivo.
 
-### OT
-
-___
-## Primera Semana de Mes
-### Belros
-Nos pasan unos excels cada mes. Hay que cargarlos mediante el proceso de SSIS. Problema: crea errores el proceso de SSIS y la carga. mi python va bien.
-- [x] 🔺 Ejecutado Python 10-2025 ✅ 2025-10-17
-### Conway
-Archivos llegan por correo. // Envios Conway
-- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-17
-### Logista
-Llegan por mail. // Lucia o Cristina
-- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-17
-______
-
-## Tercera Semana de Mes
-### Alcampo 
-Llegan por mail Rosa o Miquel
-- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-17
-
-### Eroski
-Entrar al FTP de Eroski y descargar los archivos
-Seleccionamos Eroski IRI y se cargan dos carpetas: Up y Down. La información se encuentra en la carpeta Down. Se descargan los ficheros y estos se guardan en Temp/Nielsen. Se copian y se pegan en SelloutOT/Eroski/Ficheros (2).
-Se borra el fichero FINAL.txt (3) y se renombra el fichero Extract Chupa Chups E3C_Star Schema_Mensual_aaaa-mm-12-00-dd-mm_FINAL.txt como FINAL.txt (4). El fichero Productos.txt se borra (5) y Extract Chupa Chups E3C_Star Schema_Mensual_aaaa-mm-12-00-dd-mm_Product_Meta.txt se renombra como Productos.txt (6). Se borra el fichero Clientes.txt (7) y Extract Chupa Chups E3C_Star Schema_Mensual_aaaa-mm-12-00-dd-mm_Geographi_Meta.txt se renombra como Clientes.txt (8). Borramos el fichero Extract Chupa Chups E3C_Star Schema_Mensual_aaaa-mm-12-00-dd-mm_Time_Meta.txt (9)
-
-- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-17
-
-### ECI
-Se reciben en el FTP de Sagitario EDI_ECI/Files. Hay un proce que se ejcuta todos los dias alas 3 - 4 am descubrir que es el PwoerAutoamte no va
-- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-20
-
-### Dia
-Follón gordo...
-- [x] 🔺 Ejecutado 10-2025 Mirar de ejecutar next week ✅ 2025-10-20
-
-### Carrefour
-Entrar en su portal y descargar
-- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-17
-___
-## Cada Semana
-### Carreforu weekly
-Ejecutar cada semana
-- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-09
-- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-16
-- [x] 🔺 Ejecutado 10-2025 ✅ 2025-10-23
-- [ ] 🔺 Ejecutado 10-2025
 ___
 
 # ToDo
