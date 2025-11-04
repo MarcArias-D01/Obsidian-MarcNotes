@@ -51,8 +51,10 @@ ___
 
 # Noviembre
 ### TT
-Ejecutar Primera y segunda semana del mes
-- [ ] 🔺 Ejecutado python 11-2025
+Ejecutar Primera y segunda semana del mes. 
+- [x] Pedro Duque recibido y copiado ✅ 2025-11-03
+
+- [x] 🔺 Ejecutado python 11-2025 ✅ 2025-11-03
 - [ ] 🔺 Ejecutado python 11-2025
 
 ### OT
@@ -64,7 +66,7 @@ ___
 - [ ] 🔺 Ejecutado Python 11-2025
 ### Conway
 *Archivos llegan por correo. // Envíos Conway
-- [ ] 🔺 Ejecutado 11-2025
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-03
 ### Logista
 *Llegan por mail. // Lucia o Cristina
 - [ ] 🔺 Ejecutado 11-2025
