@@ -96,7 +96,10 @@
     "linux/env": 7,
     "linux/software/git": 4,
     "linux/create": 8,
-    "linux/init": 9
+    "linux/init": 9,
+    "lin": 20,
+    "linux/c": 10,
+    "linux/copy": 11
   },
   "_version": 3
 }
