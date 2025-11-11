@@ -13,3 +13,9 @@ Para ejecutar un `compose.yml` con el archivo `.env` especifico: #linux/command/
 docker compose --env-file .env.dev up
 ```
 
+
+Para copiar archivos dentro de un docker
+#linux/copy 
+```bash
+docker cp CertificadoSharepointConnector.pfx airflow_airflow-webserver_1:/opt/airflow/
+```
