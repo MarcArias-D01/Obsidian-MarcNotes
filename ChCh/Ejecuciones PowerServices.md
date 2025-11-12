@@ -56,6 +56,7 @@ Ejecutar Primera y segunda semana del mes.
 
 - [x] 🔺 Ejecutado python 11-2025 ✅ 2025-11-03
 - [x] 🔺 Ejecutado python 11-2025 ✅ 2025-11-06
+- [x] 🔺 Ejecutado python 11-2025 ✅ 2025-11-11
 
 ### OT
 
@@ -63,13 +64,13 @@ ___
 ## Primera Semana de Mes
 ### Belros 
 *Nos pasan unos excels cada mes. 
-- [ ] 🔺 Ejecutado Python 11-2025
+- [x] 🔺 Ejecutado Python 11-2025 ✅ 2025-11-11
 ### Conway
 *Archivos llegan por correo. // Envíos Conway
 - [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-03
 ### Logista
 *Llegan por mail. // Lucia o Cristina
-- [ ] 🔺 Ejecutado 11-2025
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-06
 ______
 
 ## Tercera Semana de Mes
