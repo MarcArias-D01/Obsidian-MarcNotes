@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Relaciones tabla.md",
+                "file": "SQL/Espacio DB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relaciones tabla"
+              "title": "Espacio DB"
             }
           }
         ],
@@ -223,6 +223,8 @@
   },
   "active": "e997303859a4c1df",
   "lastOpenFiles": [
+    "SQL/Espacio Tablas BBDD.md",
+    "SQL/Relaciones tabla.md",
     "SQL/Usuario sin BBDD.md",
     "SQL/Ver FK tabla relación tabla.md",
     "Linux/docker.md",
@@ -242,13 +244,11 @@
     "SQL/Creación Columnas Tabla.md",
     "SQL/Eliminar Logs MSQL.md",
     "SQL/Espacio DB.md",
-    "SQL/Relaciones tabla.md",
     "SQL/Proecesos Runing.md",
     "SQL/Postgress Permissions.md",
     "SQL/Mover BBDD SQL.md",
     "SQL/MSQL Permissions.md",
     "SQL/Encontrar valores en tabla.md",
-    "SQL/Eliminar todas las tablas.md",
     "SQL",
     "Win",
     "Eninter",
