@@ -97,6 +97,6 @@ ___
 ## Cada Semana
 ### Carreforu weekly
 *Ejecutar cada semana
-- [ ] 🔺 Ejecutado 11-2025
-- [ ] 🔺 Ejecutado 11-2025
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-06
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-11
 - [ ] 🔺 Ejecutado 11-2025
