@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Proyecto"
             }
+          },
+          {
+            "id": "a5fb7bfd0d61bd7e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.10.3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,7 +247,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "740570e7dc67041e",
+  "active": "a5fb7bfd0d61bd7e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Decal/DecalIngenierIA/Proyecto.md",
