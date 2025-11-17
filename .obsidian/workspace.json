@@ -53,12 +53,14 @@
             "id": "bf4263d34993a718",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "ChCh/Ejecuciones PowerServices.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Ejecuciones PowerServices"
             }
           }
         ],
