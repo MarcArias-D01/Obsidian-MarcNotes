@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decal/DecalIngenierIA/Proyecto.md",
+                "file": "Linux/systemctl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proyecto"
-            }
-          },
-          {
-            "id": "a5fb7bfd0d61bd7e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.10.3"
+              "title": "systemctl"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5fb7bfd0d61bd7e",
+  "active": "740570e7dc67041e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Decal/DecalIngenierIA/Proyecto.md",
+    "conflict-files-obsidian-git.md",
     "SQL/Espacio DB.md",
     "SQL/Espacio Tablas BBDD.md",
     "SQL/Relaciones tabla.md",
