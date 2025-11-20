@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
+                "file": "SQL/Espacio DB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
+              "title": "Espacio DB"
             }
           }
         ],
@@ -251,10 +251,13 @@
   },
   "active": "bf4263d34993a718",
   "lastOpenFiles": [
+    "SQL/Espacio Tablas BBDD.md",
+    "SQL/Mover BBDD SQL.md",
+    "SQL/Espacio DB.md",
+    "ChCh/Ejecuciones PowerServices.md",
     "ChCh/Foundations and PowerServices.md",
     "conflict-files-obsidian-git.md",
     "SQL/Proecesos Runing.md",
-    "ChCh/Ejecuciones PowerServices.md",
     "Eninter/Presentación Eninter.md",
     "Linux/lsof.md",
     "ChCh/Intro.md",
@@ -268,15 +271,12 @@
     "Linux/certbot.md",
     "SQL/Creación Columnas Tabla.md",
     "SQL/Eliminar Logs MSQL.md",
-    "SQL/Espacio DB.md",
     "SQL/Ver FK tabla relación tabla.md",
     "SQL/Usuario sin BBDD.md",
     "SQL/Relaciones tabla.md",
     "SQL/Postgress Permissions.md",
-    "SQL/Mover BBDD SQL.md",
     "SQL/MSQL Permissions.md",
     "SQL/Encontrar valores en tabla.md",
-    "SQL/Eliminar todas las tablas.md",
     "SQL",
     "Win",
     "Eninter",
