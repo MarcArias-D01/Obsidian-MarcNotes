@@ -80,19 +80,19 @@ ______
 
 ### Eroski
 *Entrar al FTP de Eroski y descargar los archivos
-- [ ] 🔺 Ejecutado 11-2025
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-20
 
 ### ECI
 *Se reciben en el FTP de Sagitario EDI_ECI/Files. 
-- [ ] 🔺 Ejecutado 11-2025
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-20
 
 ### Dia
 *Su pagina web
-- [ ] 🔺 Ejecutado 11-2025 Mirar de ejecutar next week
+- [x] 🔺 Ejecutado 11-2025 Mirar de ejecutar next week ✅ 2025-11-20
 
 ### Carrefour
 *Su pagina web
-- [ ] 🔺 Ejecutado 11-2025
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-20
 ___
 ## Cada Semana
 ### Carreforu weekly
