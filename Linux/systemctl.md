@@ -18,6 +18,11 @@ Listar los servicio a los que tiene acceso el usuario
 systemctl --user list-units
 ```
 
+Si quieres filtrar por algún nombre especifico o palabra
+```bash
+systemctl list-units --user --type=service | grep exec
+```
+
 #linux/create  
 
 Crear un procedimiento nuevo
