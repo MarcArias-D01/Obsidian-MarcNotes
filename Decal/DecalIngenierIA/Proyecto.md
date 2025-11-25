@@ -30,3 +30,12 @@ PRESENTACION
 - Proyecto (Propuesta)
 - Aceptación POC se ha llegado a lo que se pedía
 - 2026 Proyecto IA Knowledge Center empezando por Decal Ingeniería
+
+
+# Demo POC 24/11/2025
+
+
+- API 653 segun Luis Mario no eta en los documentos... Mirar si es así.
+
+
+

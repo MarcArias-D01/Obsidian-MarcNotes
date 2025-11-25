@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
+                "file": "Decal/DecalIngenierIA/Proyecto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
+              "title": "Proyecto"
             }
           },
           {
@@ -405,8 +405,19 @@
   },
   "active": "eeae0e52d2885022",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Linux/systemctl.md",
     "conflict-files-obsidian-git.md",
+=======
+    "ChCh/Ejecuciones PowerServices.md",
+    "SQL/Espacio DB.md",
+    "SQL/Espacio Tablas BBDD.md",
+    "SQL/Mover BBDD SQL.md",
+    "ChCh/Foundations and PowerServices.md",
+    "conflict-files-obsidian-git.md",
+    "SQL/Proecesos Runing.md",
+    "Eninter/Presentación Eninter.md",
+>>>>>>> 82e0cb8dc604329509c4a939ed33e9cc18b572ca
     "Linux/lsof.md",
     "Linux/journalctl.md",
     "ChCh/Ejecuciones PowerServices.md",
@@ -428,9 +439,18 @@
     "Linux/certbot.md",
     "SQL/Creación Columnas Tabla.md",
     "SQL/Eliminar Logs MSQL.md",
+<<<<<<< HEAD
     "SQL/Proecesos Runing.md",
     "SQL/Postgress Permissions.md",
     "SQL/MSQL Permissions.md",
+=======
+    "SQL/Ver FK tabla relación tabla.md",
+    "SQL/Usuario sin BBDD.md",
+    "SQL/Relaciones tabla.md",
+    "SQL/Postgress Permissions.md",
+    "SQL/MSQL Permissions.md",
+    "SQL/Encontrar valores en tabla.md",
+>>>>>>> 82e0cb8dc604329509c4a939ed33e9cc18b572ca
     "SQL",
     "Win",
     "Eninter",
