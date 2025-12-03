@@ -202,9 +202,21 @@
               "icon": "lucide-file",
               "title": "systemctl"
             }
+          },
+          {
+            "id": "7c4de64637f3a2ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.10.6"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -389,7 +401,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dac74979be869c6a",
+  "active": "7c4de64637f3a2ce",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Linux/systemctl.md",
