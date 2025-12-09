@@ -27,44 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Decal/DecalIngenierIA/Proyecto.md",
+                "file": "ChCh/Ejecuciones PowerServices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proyecto"
+              "title": "Ejecuciones PowerServices"
             }
           },
           {
-            "id": "740570e7dc67041e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "ed2d17cefe9fc127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Mover BBDD SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mover BBDD SQL"
-            }
-          },
-          {
-            "id": "ea3ed55d7e42fc97",
+            "id": "69dc58a50503b1ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,145 +50,21 @@
             }
           },
           {
-            "id": "706003aacb9eb223",
+            "id": "bf4263d34993a718",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
+                "file": "Linux/aws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "977d959fffcdf418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "0df1cb46ad4259f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "5d9e03280ceb5156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "80e0be9c6acdc52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "c98395c8a9f6687c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "a2069639b67ca815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "1fcd98d74429af6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "dac74979be869c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "7c4de64637f3a2ce",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.10.6"
+              "title": "aws"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,7 +88,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -249,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux/command",
+                "query": "tag:#linux/config",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -284,7 +132,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Graph view"
             }
           }
         ]
@@ -345,7 +193,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
@@ -389,44 +237,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c4de64637f3a2ce",
+  "active": "bf4263d34993a718",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Linux/systemctl.md",
-    "Linux/lsof.md",
+    "Linux/certbot.md",
+    "Linux/docker.md",
+    "Linux/git.md",
+    "Linux/ip.md",
     "Linux/journalctl.md",
+    "Linux/lsof.md",
+    "Linux/nginx.md",
+    "Linux/systemctl.md",
+    "Decal/DecalIngenierIA/Proyecto.md",
     "ChCh/Ejecuciones PowerServices.md",
-    "SQL/Mover BBDD SQL.md",
     "SQL/Espacio DB.md",
     "SQL/Espacio Tablas BBDD.md",
-    "Decal/DecalIngenierIA/Proyecto.md",
-    "SQL/Relaciones tabla.md",
-    "SQL/Usuario sin BBDD.md",
-    "SQL/Ver FK tabla relación tabla.md",
-    "Linux/docker.md",
-    "Eninter/Presentación Eninter.md",
+    "SQL/Mover BBDD SQL.md",
     "ChCh/Foundations and PowerServices.md",
+    "conflict-files-obsidian-git.md",
+    "SQL/Proecesos Runing.md",
+    "Eninter/Presentación Eninter.md",
     "ChCh/Intro.md",
     "Linux/aws.md",
-    "Linux/git.md",
-    "Linux/nginx.md",
-    "Linux/ip.md",
-    "Linux/certbot.md",
     "SQL/Creación Columnas Tabla.md",
     "SQL/Eliminar Logs MSQL.md",
-    "SQL/Proecesos Runing.md",
+    "SQL/Ver FK tabla relación tabla.md",
+    "SQL/Usuario sin BBDD.md",
+    "SQL/Relaciones tabla.md",
     "SQL/Postgress Permissions.md",
     "SQL/MSQL Permissions.md",
     "SQL",
