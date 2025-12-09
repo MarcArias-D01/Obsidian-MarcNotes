@@ -80,11 +80,19 @@ ______
 
 ### Eroski
 *Entrar al FTP de Eroski y descargar los archivos
+<<<<<<< HEAD
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-18
+
+### ECI
+*Se reciben en el FTP de Sagitario EDI_ECI/Files. 
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-18
+=======
 - [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-20
 
 ### ECI
 *Se reciben en el FTP de Sagitario EDI_ECI/Files. 
 - [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-20
+>>>>>>> 82e0cb8dc604329509c4a939ed33e9cc18b572ca
 
 ### Dia
 *Su pagina web
@@ -99,4 +107,5 @@ ___
 *Ejecutar cada semana
 - [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-06
 - [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-11
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-11-17
 - [ ] 🔺 Ejecutado 11-2025
