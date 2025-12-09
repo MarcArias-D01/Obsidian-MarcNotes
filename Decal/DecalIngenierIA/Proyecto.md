@@ -37,5 +37,5 @@ PRESENTACION
 - API 653 según Luis Mario no eta en los documentos... Mirar si es así.
 - Inspección es Normativa (es obligación) por encima de Evaluaciones técnicas (da recomendaciones). 
 - Bombas... Creo que la manera de extraer la información e bastante visual. Ver a que valor corresponde de la curva.
-- Las normativas se actualizan. Tener en mente. Las APIs son de pago...
+- Las normativas se actualizan. Tener en mente. Las APIs son de pago...  
 
