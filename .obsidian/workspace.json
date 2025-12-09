@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/aws.md",
+                "file": "SQL/Espacio Tablas BBDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aws"
+              "title": "Espacio Tablas BBDD"
             }
           }
         ],
@@ -251,6 +251,9 @@
   },
   "active": "bf4263d34993a718",
   "lastOpenFiles": [
+    "SQL/Espacio DB.md",
+    "SQL/Espacio Tablas BBDD.md",
+    "Linux/aws.md",
     "Linux/certbot.md",
     "Linux/docker.md",
     "Linux/git.md",
@@ -261,15 +264,12 @@
     "Linux/systemctl.md",
     "Decal/DecalIngenierIA/Proyecto.md",
     "ChCh/Ejecuciones PowerServices.md",
-    "SQL/Espacio DB.md",
-    "SQL/Espacio Tablas BBDD.md",
     "SQL/Mover BBDD SQL.md",
     "ChCh/Foundations and PowerServices.md",
     "conflict-files-obsidian-git.md",
     "SQL/Proecesos Runing.md",
     "Eninter/Presentación Eninter.md",
     "ChCh/Intro.md",
-    "Linux/aws.md",
     "SQL/Creación Columnas Tabla.md",
     "SQL/Eliminar Logs MSQL.md",
     "SQL/Ver FK tabla relación tabla.md",
