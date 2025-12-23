@@ -64,15 +64,17 @@
             }
           },
           {
-            "id": "a81b2c1020aae86a",
+            "id": "0d64e8d6655c1bba",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Python/Encrypt values.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Encrypt values"
             }
           }
         ],
@@ -109,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux/config",
+                "query": "tag:#encrypt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +119,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -261,10 +263,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a81b2c1020aae86a",
+  "active": "7b0673844deb8d51",
   "lastOpenFiles": [
-    "SQL/Espacio DB.md",
     "SQL/Espacio Tablas BBDD.md",
+    "Python/Encrypt values.md",
+    "SQL/Espacio DB.md",
     "Linux/aws.md",
     "Linux/certbot.md",
     "Linux/docker.md",
@@ -288,7 +291,6 @@
     "SQL/Usuario sin BBDD.md",
     "SQL/Relaciones tabla.md",
     "SQL/Postgress Permissions.md",
-    "SQL/MSQL Permissions.md",
     "SQL",
     "Win",
     "Eninter",

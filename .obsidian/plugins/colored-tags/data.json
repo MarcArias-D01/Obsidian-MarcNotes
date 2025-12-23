@@ -97,7 +97,9 @@
     "linux/software/git": 4,
     "linux/create": 8,
     "linux/init": 9,
-    "linux/copy": 10
+    "linux/copy": 10,
+    "encrypt": 20,
+    "python/encrypt": 2
   },
   "_version": 3
 }
