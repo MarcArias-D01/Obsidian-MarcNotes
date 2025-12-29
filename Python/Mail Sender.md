@@ -1,3 +1,8 @@
+---
+tags:
+  - python
+  - python/mail
+---
 
 Función para enviar mail des de outlook cuenta empresa.
 Primero tendrás que crear una aplicación y darle al GRAPH permisos de aplicación de mail.send. 
