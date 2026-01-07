@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Win/temp.md",
+                "file": "SQL/Proecesos Runing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "temp"
+              "title": "Proecesos Runing"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "0559c2ffe95b127e",
   "lastOpenFiles": [
+    "Win/temp.md",
     "SQL/Ver FK tabla relación tabla.md",
     "SQL/Usuario sin BBDD.md",
     "SQL/Relaciones tabla.md",
@@ -233,7 +234,6 @@
     "ChCh/Ejecuciones PowerServices.md",
     "Linux/systemctl.md",
     "Linux/lsof.md",
-    "Linux/journalctl.md",
     "SQL",
     "Win",
     "Eninter",
