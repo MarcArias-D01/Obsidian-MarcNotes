@@ -14,3 +14,9 @@ JOIN sys.sql_modules AS m
     ON v.object_id = m.object_id
 ORDER BY schema_name, view_name;
 ```
+---
+```sql
+SELECT *
+FROM INFORMATION_SCHEMA.VIEWS
+ORDER BY TABLE_SCHEMA, TABLE_NAME;
+```

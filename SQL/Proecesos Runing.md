@@ -1,6 +1,7 @@
-#SQL/command/query 
-#SQL/MSQL 
-
+---
+tags:
+  - SQL/MSQL
+---
 Ver todos los procesos que se estanejecutando en una BBDD.
 
 Puedes hacer `kill <num_proceso>`

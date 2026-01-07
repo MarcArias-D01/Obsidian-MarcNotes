@@ -1,5 +1,7 @@
-#SQL/command/query 
-#SQL/PostgreSQL
+---
+tags:
+  - SQL/Postgres
+---
 Dar permisos de lo que quieras en PostgreSQL.
 
 Ejemplo para dani_odoo.

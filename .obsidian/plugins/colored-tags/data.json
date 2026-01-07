@@ -100,7 +100,8 @@
     "linux/copy": 10,
     "python/encrypt": 2,
     "python/list": 3,
-    "python/mail": 4
+    "python/mail": 4,
+    "SQL/Postgres": 5
   },
   "_version": 3
 }

@@ -1,6 +1,7 @@
-#SQL/command/query
-#SQL/MSQL 
-
+---
+tags:
+  - SQL/MSQL
+---
 Saber el espacio que ocupan las bases de datos
 
 ```SQL

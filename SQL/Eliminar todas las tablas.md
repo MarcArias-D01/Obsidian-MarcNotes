@@ -1,6 +1,7 @@
-#SQL/command/query 
-#SQL/MSQL 
-
+---
+tags:
+  - SQL/MSQL
+---
 OJO!!!
 Elimina todas las tablas de la BBDD.
 

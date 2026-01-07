@@ -4,235 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b2ed590acbb59ce2",
+        "id": "0c5f8372cde328f9",
         "type": "tabs",
         "children": [
           {
-            "id": "497e15b8a2a00aad",
+            "id": "0559c2ffe95b127e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eninter/Presentación Eninter.md",
+                "file": "Win/temp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Presentación Eninter"
-            }
-          },
-          {
-            "id": "e997303859a4c1df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Decal/DecalIngenierIA/Proyecto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proyecto"
-            }
-          },
-          {
-            "id": "740570e7dc67041e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "ed2d17cefe9fc127",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Mover BBDD SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mover BBDD SQL"
-            }
-          },
-          {
-            "id": "ea3ed55d7e42fc97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "706003aacb9eb223",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "977d959fffcdf418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "0df1cb46ad4259f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "5d9e03280ceb5156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "80e0be9c6acdc52a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChCh/Ejecuciones PowerServices.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ejecuciones PowerServices"
-            }
-          },
-          {
-            "id": "c98395c8a9f6687c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "a2069639b67ca815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "1fcd98d74429af6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "dac74979be869c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/systemctl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "systemctl"
-            }
-          },
-          {
-            "id": "7c4de64637f3a2ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Eliminar Logs MSQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Eliminar Logs MSQL"
-            }
-          },
-          {
-            "id": "09f0c6d0645c71f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "temp"
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -265,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux/command",
+                "query": "tag:#SQL/command/query",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -417,16 +206,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09f0c6d0645c71f0",
+  "active": "0559c2ffe95b127e",
   "lastOpenFiles": [
+    "SQL/Ver FK tabla relación tabla.md",
+    "SQL/Usuario sin BBDD.md",
+    "SQL/Relaciones tabla.md",
+    "SQL/Queries vistas.md",
+    "SQL/Proecesos Runing.md",
+    "SQL/Postgress Permissions.md",
+    "SQL/MSQL Permissions.md",
+    "SQL/Mover BBDD SQL.md",
+    "SQL/Espacio Tablas BBDD.md",
+    "SQL/Espacio DB.md",
+    "SQL/Encontrar valores en tabla.md",
+    "SQL/Eliminar todas las tablas.md",
+    "SQL/Eliminar Logs MSQL.md",
+    "SQL/Eliminar Constraints.md",
+    "SQL/Creación Columnas Tabla.md",
+    "conflict-files-obsidian-git.md",
     "ToDo.md",
     "TEST_devOPS.md",
     "TEST.md",
-    "SQL/Queries vistas.md",
-    "SQL/Espacio DB.md",
-    "SQL/MSQL Permissions.md",
-    "conflict-files-obsidian-git.md",
-    "SQL/Eliminar Logs MSQL.md",
     "Python/Mail Sender.md",
     "Python/Lists.md",
     "Python/Encrypt values.md",
@@ -434,17 +234,6 @@
     "Linux/systemctl.md",
     "Linux/lsof.md",
     "Linux/journalctl.md",
-    "SQL/Mover BBDD SQL.md",
-    "SQL/Espacio Tablas BBDD.md",
-    "Decal/DecalIngenierIA/Proyecto.md",
-    "SQL/Relaciones tabla.md",
-    "SQL/Usuario sin BBDD.md",
-    "SQL/Ver FK tabla relación tabla.md",
-    "Linux/docker.md",
-    "Eninter/Presentación Eninter.md",
-    "ChCh/Foundations and PowerServices.md",
-    "ChCh/Intro.md",
-    "Linux/aws.md",
     "SQL",
     "Win",
     "Eninter",
