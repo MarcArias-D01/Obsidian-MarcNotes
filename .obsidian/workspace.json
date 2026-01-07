@@ -207,12 +207,14 @@
             "id": "7c4de64637f3a2ce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "SQL/Eliminar Logs MSQL.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.10.6"
+              "icon": "lucide-file",
+              "title": "Eliminar Logs MSQL"
             }
           }
         ],
@@ -403,11 +405,11 @@
   },
   "active": "7c4de64637f3a2ce",
   "lastOpenFiles": [
+    "ChCh/Ejecuciones PowerServices.md",
     "conflict-files-obsidian-git.md",
     "Linux/systemctl.md",
     "Linux/lsof.md",
     "Linux/journalctl.md",
-    "ChCh/Ejecuciones PowerServices.md",
     "SQL/Mover BBDD SQL.md",
     "SQL/Espacio DB.md",
     "SQL/Espacio Tablas BBDD.md",
