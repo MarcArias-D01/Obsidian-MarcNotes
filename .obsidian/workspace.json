@@ -11,10 +11,14 @@
             "id": "7885105b10e389d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL/DESTRUIR Oddo.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "DESTRUIR Oddo"
             }
           }
         ]
@@ -204,6 +208,7 @@
   },
   "active": "7885105b10e389d0",
   "lastOpenFiles": [
+    "SQL/DESTRUIR Oddo.md",
     "Linux/aws.md",
     "Linux/nginx.md",
     "Linux/ip.md",
@@ -229,7 +234,6 @@
     "SQL/Creación Columnas Tabla.md",
     "conflict-files-obsidian-git.md",
     "ToDo.md",
-    "TEST_devOPS.md",
     "SQL",
     "Win",
     "Eninter",
