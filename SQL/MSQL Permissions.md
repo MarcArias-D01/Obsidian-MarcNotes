@@ -1,7 +1,7 @@
-#SQL/command/query 
-#SQL/MSQL 
-
-
+---
+tags:
+  - SQL/MSQL
+---
 Permesiso de ejecución a cualquier tabla de SQL con el schema 'x':
 ```SQL
 DECLARE @SchemaName varchar(20)

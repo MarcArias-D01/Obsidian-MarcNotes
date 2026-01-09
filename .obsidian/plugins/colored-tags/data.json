@@ -125,7 +125,9 @@
     "linux/procedures": 31,
     "linux/automation": 32,
     "linux/executions": 33,
-    "linux/system": 34
+    "linux/system": 34,
+    "SQL/Postgres": 5,
+    "ETL": 21
   },
   "_version": 3
 }

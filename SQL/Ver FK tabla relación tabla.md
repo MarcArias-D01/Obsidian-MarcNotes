@@ -1,6 +1,7 @@
-#SQL/command/query 
-#SQL/MSQL 
-
+---
+tags:
+  - SQL/MSQL
+---
 Devuelve una lista de todas las Foreing keys que hay en la BBDD con el nombre, tabla destino y tabla origen.
 
 ```SQL

@@ -1,6 +1,7 @@
-#SQL/command/query 
-#SQL/MSQL
-
+---
+tags:
+  - SQL/MSQL
+---
 Query para eliminar todas las Constraitns de las tablas de una BBDD. Te devolvera las queries ha ejecutar.
 
 ```SQL

@@ -1,6 +1,7 @@
-
-#SQL/command/query 
-
+---
+tags:
+  - SQL/MSQL
+---
 Query para saber lo que ocupa cada tabla en una BBDD
 
 ```SQL

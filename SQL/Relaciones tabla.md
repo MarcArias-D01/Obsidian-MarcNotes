@@ -1,6 +1,7 @@
-#SQL/command/query 
-#SQL/MSQL 
-
+---
+tags:
+  - SQL/MSQL
+---
 Devuelve una lista de todas las relaciones que tiene con otra tabla una tabla de SQL
 
 ```SQL

@@ -75,7 +75,7 @@ ______
 ## Tercera Semana de Mes
 ### Alcampo 
 *Llegan por mail Rosa o Miquel
-- [ ] 🔺 Ejecutado 11-2025
+- [x] 🔺 Ejecutado 11-2025 ✅ 2025-12-03
 
 ### Eroski
 *Entrar al FTP de Eroski y descargar los archivos

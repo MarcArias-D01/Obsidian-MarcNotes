@@ -1,6 +1,7 @@
-#SQL/command/query 
-#SQL/MSQL 
-
+---
+tags:
+  - SQL/MSQL
+---
 Procedimiento creado para eliminar los lgos del systema de todas las BBDD.
 
 ```SQL
