@@ -1,4 +1,9 @@
-#linux/command/ip 
+---
+tags:
+  - linux
+  - linux/ip
+  - linux/network
+---
 
 Comando par identificar las ips de tu servidor:
 
