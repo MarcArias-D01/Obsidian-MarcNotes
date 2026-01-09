@@ -1,4 +1,12 @@
-#linux/command/systemctl 
+---
+tags:
+  - linux
+  - linux/systemctl
+  - linux/procedures
+  - linux/automation
+  - linux/executions
+  - linux/system
+---
 
 `systemctl` es la herramienta de línea de comandos para interactuar con **systemd**, el sistema de inicio y gestor de servicios en Linux.
 
@@ -7,7 +15,6 @@ Se usa para:
 - Habilitarlos o deshabilitarlos en el arranque (`systemctl enable/disable`).
 - Ver el estado de un servicio (`systemctl status nombre_servicio`).
 
-#linux/location
 Ubicación normal si se ejecuta como un usuario:
 ```bash
 ls ~/.config/systemd/user/
@@ -23,7 +30,6 @@ Si quieres filtrar por algún nombre especifico o palabra
 systemctl list-units --user --type=service | grep exec
 ```
 
-#linux/create  
 
 Crear un procedimiento nuevo
 ```bash
@@ -62,7 +68,6 @@ RestartSec=3
 WantedBy=multi-user.target
 ```
 
-#linux/init 
 
 Para ejecutar el procedure. Ejecutar uno a uno
 ```bash
