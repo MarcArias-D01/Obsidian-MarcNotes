@@ -1,4 +1,8 @@
-#windows/command
+---
+tags:
+  - windows
+---
+
 ```cmd
 %temp%
 ```

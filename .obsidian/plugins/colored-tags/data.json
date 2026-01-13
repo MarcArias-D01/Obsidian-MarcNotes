@@ -131,7 +131,9 @@
     "linux/groups": 34,
     "linux/gpu": 35,
     "docker/g": 1,
-    "docker/gpu": 2
+    "docker/gpu": 2,
+    "scp": 23,
+    "transfer": 24
   },
   "_version": 3
 }

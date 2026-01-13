@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/docker.md",
+                "file": "Linux/scp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "scp"
             }
           },
           {
@@ -222,11 +222,14 @@
   },
   "active": "7885105b10e389d0",
   "lastOpenFiles": [
+    "Win/scp.md",
+    "Linux/scp.md",
+    "Win/temp.md",
+    "Linux/docker.md",
     "Linux/groups.md",
     "Sin título.md",
     "Linux/ip.md",
     "Linux/hyprctl.md",
-    "Linux/docker.md",
     "Linux/git.md",
     "Linux/journalctl.md",
     "SQL/DESTRUIR Oddo.md",
@@ -253,12 +256,9 @@
     "Linux/systemctl.md",
     "SQL/Insert Data.md",
     "SQL/Proecesos Runing.md",
-    "Win/temp.md",
     "SQL/Ver FK tabla relación tabla.md",
     "SQL/Usuario sin BBDD.md",
     "SQL/Relaciones tabla.md",
-    "SQL/Queries vistas.md",
-    "SQL/Postgress Permissions.md",
     "SQL",
     "Win",
     "Eninter",
