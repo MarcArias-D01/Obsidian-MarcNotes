@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "SQL/Proecesos Runing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Proecesos Runing"
             }
           }
         ],
@@ -235,12 +235,12 @@
   },
   "active": "e2473bb25f5af897",
   "lastOpenFiles": [
+    "Sin título.md",
     "Win/scp.md",
     "Linux/scp.md",
     "Win/temp.md",
     "Linux/docker.md",
     "Linux/groups.md",
-    "Sin título.md",
     "Linux/ip.md",
     "Linux/hyprctl.md",
     "Linux/git.md",
