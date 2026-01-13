@@ -125,7 +125,13 @@
     "linux/user": 30,
     "linux/security": 31,
     "linux/pwd": 32,
-    "linux/directories": 33
+    "linux/directories": 33,
+    "docker": 21,
+    "groups": 22,
+    "linux/groups": 34,
+    "linux/gpu": 35,
+    "docker/g": 1,
+    "docker/gpu": 2
   },
   "_version": 3
 }
