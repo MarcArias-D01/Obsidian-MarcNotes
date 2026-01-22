@@ -133,7 +133,9 @@
     "docker/g": 1,
     "docker/gpu": 2,
     "scp": 23,
-    "transfer": 24
+    "transfer": 24,
+    "requests": 25,
+    "ip": 26
   },
   "_version": 3
 }
