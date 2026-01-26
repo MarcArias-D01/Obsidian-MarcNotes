@@ -125,7 +125,13 @@
     "linux/user": 30,
     "linux/security": 31,
     "linux/pwd": 32,
-    "linux/directories": 33
+    "linux/directories": 33,
+    "comercial": 21,
+    "disa": 22,
+    "IA": 23,
+    "optimizacion": 24,
+    "reunion": 25,
+    "command": 26
   },
   "_version": 3
 }
