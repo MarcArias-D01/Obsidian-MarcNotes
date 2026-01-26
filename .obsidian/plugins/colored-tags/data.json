@@ -131,7 +131,15 @@
     "IA": 23,
     "optimizacion": 24,
     "reunion": 25,
-    "command": 26
+    "command": 26,
+    "docker": 27,
+    "linux/gpu": 34,
+    "docker/gpu": 1,
+    "linux/groups": 35,
+    "scp": 28,
+    "transfer": 29,
+    "requests": 30,
+    "ip": 31
   },
   "_version": 3
 }

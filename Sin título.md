@@ -1,0 +1,10 @@
+- ChCh va molt bé - pero masa dependencia de mi en alguns procesos
+- Entrara ChCh Portugal SSIS
+	- Quin tipus de ETL volem fer
+- REDD Status
+- Decal IA
+- Eninter
+- I+D sera només per mi les coses que investigui en general o la mayoria del temps
+- Oddo Dani secuestro de procesos no es baixa del burro només enten el seu pal de vista
+	- Freelance
+	- Dani rehace procesos que ...
