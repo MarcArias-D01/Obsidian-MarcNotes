@@ -140,7 +140,25 @@
     "disa": 28,
     "IA": 29,
     "optimizacion": 30,
-    "reunion": 31
+    "reunion": 31,
+    "gpu": 32,
+    "ubuntu": 33,
+    "arch": 34,
+    "disk-usage": 35,
+    "user": 36,
+    "security": 37,
+    "gui": 38,
+    "hyprctl": 39,
+    "hyprland": 40,
+    "wayland": 41,
+    "network": 42,
+    "logs": 43,
+    "nmcli": 44,
+    "pacman": 45,
+    "update": 46,
+    "passwd": 47,
+    "pwd": 48,
+    "directories": 49
   },
   "_version": 3
 }

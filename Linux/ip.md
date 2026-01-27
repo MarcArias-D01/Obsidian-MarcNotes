@@ -1,8 +1,8 @@
 ---
 tags:
   - linux
-  - linux/ip
-  - linux/network
+  - network
+  - ip
 ---
 
 Comando par identificar las ips de tu servidor:

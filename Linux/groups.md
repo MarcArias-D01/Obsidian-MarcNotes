@@ -1,8 +1,9 @@
 ---
 tags:
   - linux
-  - linux/groups
-  - linux/user
+  - groups
+  - user
+  - security
 ---
 Cuando quieres ejecutar algún comando sin que te pida usarlo --> `sudo comando`
 

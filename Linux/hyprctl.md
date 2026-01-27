@@ -1,11 +1,11 @@
 ---
 tags:
   - linux
-  - linux/arch
-  - linux/gui
-  - linux/hyprctl
-  - linux/hyprland
-  - linux/wayland
+  - arch
+  - gui
+  - hyprctl
+  - hyprland
+  - wayland
 ---
 Hyprctl es la herramienta de línea de comandos esencial para controlar Hyprland, un gestor de ventanas dinámico y tiling para Wayland, muy popular en Arch Linux por su rendimiento y personalización. En entornos como el tuyo con Arch y Wayland, permite dispatch de comandos, monitoreo de workspaces y ajustes dinámicos sin recargar la configuración completa.
 

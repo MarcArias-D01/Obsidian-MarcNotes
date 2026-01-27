@@ -1,11 +1,10 @@
 ---
 tags:
   - linux
-  - linux/arch
-  - linux/pacman
-  - linux/clean
-  - linux/update
-  - linux/install
+  - arch
+  - pacman
+  - clean
+  - update
 ---
 El gestor de paquetes oficial en Arch Linux.
 
