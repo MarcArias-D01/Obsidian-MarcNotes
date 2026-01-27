@@ -158,7 +158,19 @@
     "update": 46,
     "passwd": 47,
     "pwd": 48,
-    "directories": 49
+    "directories": 49,
+    "system": 50,
+    "executions": 51,
+    "systemctl": 52,
+    "procedures": 53,
+    "automation": 54,
+    "aws": 55,
+    "certbot": 56,
+    "certificate": 57,
+    "git": 58,
+    "du": 59,
+    "lsof": 60,
+    "port": 61
   },
   "_version": 3
 }

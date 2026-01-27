@@ -4,6 +4,7 @@ tags:
   - ubuntu
   - arch
   - disk-usage
+  - du
 ---
 
 # `du` = *disk usage*

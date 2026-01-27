@@ -1,5 +1,10 @@
-#linux/command/aws #linux/software/aws  #cloud
-
+---
+tags:
+  - linux
+  - ubuntu
+  - aws
+  - cloud
+---
 El **AWS CLI** (Command Line Interface) es una herramienta oficial de Amazon que permite **administrar servicios de AWS desde la terminal**.
 
 Con ella puedes:
@@ -8,7 +13,6 @@ Con ella puedes:
 - Evitar depender solo de la consola web de AWS.
 
 Instalar AWS CLI  
-#linux/install 
 ```bash
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 
@@ -18,7 +22,6 @@ sudo ./aws/install
 ```
 
 Se tendrán que configurar las credenciales para un usuario: 
-#linux/configure
 ```bash
 aws configure
 ```
@@ -29,8 +32,7 @@ Te pedirá:
 - **Default region name** → ej. `us-east-1` o `eu-west-1`.
 - **Default output format** → `json`, `table` o `text` (recomiendo `json`).
 
-Esto genera el archivo de configuración en: 
-#linux/location 
+Esto genera el archivo de configuración en:  
 ```bash
 ~/.aws/credentials
 ~/.aws/config
