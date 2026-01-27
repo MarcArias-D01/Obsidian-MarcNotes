@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Espacio DB"
             }
+          },
+          {
+            "id": "70759c7a4c060f79",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b28222c69d3e59cf",
+  "active": "70759c7a4c060f79",
   "lastOpenFiles": [
     "SQL/Espacio Tablas BBDD.md",
     "Linux/scp.md",
