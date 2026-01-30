@@ -1,8 +1,9 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
-Procedimiento creado para eliminar los lgos del systema de todas las BBDD.
+Procedimiento creado para eliminar los logs del systema de todas las BBDD.
 
 ```SQL
 USE [master]

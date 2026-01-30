@@ -1,12 +1,14 @@
-#linux/software/nginx 
-
+---
+tags:
+  - nginx
+  - linux
+  - ubuntu
+---
 **Nginx** es un servidor web y proxy inverso de alto rendimiento. Se usa para:
 - Servir páginas web estáticas muy rápido.
 - Actuar como **proxy inverso** para aplicaciones (redirigir tráfico a otros puertos/servicios).
 - Manejar **balanceo de carga**, **caché**, **SSL/TLS** y **autenticación**.
 - Es ligero, eficiente y soporta miles de conexiones concurrentes con bajo consumo de recursos.
-
-#linux/configure
 
 Para backends interactivos o con streaming:
 

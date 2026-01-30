@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
 Encontrar un valor en una tabla de SQL. Saber en que columna se haya el valor.
 

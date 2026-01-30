@@ -170,7 +170,11 @@
     "git": 58,
     "du": 59,
     "lsof": 60,
-    "port": 61
+    "port": 61,
+    "nginx": 62,
+    "MSQL": 63,
+    "list": 64,
+    "mail": 65
   },
   "_version": 3
 }

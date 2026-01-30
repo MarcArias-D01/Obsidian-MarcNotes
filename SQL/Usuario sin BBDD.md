@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
 Si eliminas una BBDD en el que un usuario estaba agenciado ese usuario no va a poder loggearse nunca. Deberás agenciarle otra BBDD a ese usuario. Ejemplo de lo que paso en MEtarom.
 

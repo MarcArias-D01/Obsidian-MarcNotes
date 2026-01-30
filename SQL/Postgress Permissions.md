@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/Postgres
+  - SQL
+  - Postgres
 ---
 Dar permisos de lo que quieras en PostgreSQL.
 

@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
 Obtener todas las queries de como se crean las vistas de la BBDD:
 

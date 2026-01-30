@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
 Permesiso de ejecución a cualquier tabla de SQL con el schema 'x':
 ```SQL
