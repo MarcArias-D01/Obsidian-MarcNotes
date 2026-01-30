@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISA/DISA comercial.md",
+                "file": "Linux/lsof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DISA comercial"
+              "title": "lsof"
             }
           }
         ]
@@ -208,6 +208,8 @@
   },
   "active": "df3963dc6a7f4123",
   "lastOpenFiles": [
+    "SQL/Mover BBDD SQL.md",
+    "DISA/DISA comercial.md",
     "Python/Obtener Ip.md",
     "Python/Mail Sender.md",
     "Python/Lists.md",
@@ -220,7 +222,6 @@
     "SQL/Proecesos Runing.md",
     "SQL/Postgress Permissions.md",
     "SQL/MSQL Permissions.md",
-    "SQL/Mover BBDD SQL.md",
     "SQL/Insert Data.md",
     "SQL/Espacio Tablas BBDD.md",
     "SQL/Espacio DB.md",
@@ -232,7 +233,6 @@
     "SQL/Creación Columnas Tabla.md",
     "Linux/nginx.md",
     "Linux/lsof.md",
-    "DISA/DISA comercial.md",
     "Sin título.md",
     "DISA",
     "assets/nmcli-device-wifi-list.png",
