@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Obtener Ip.md",
+                "file": "DISA/DISA comercial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obtener Ip"
+              "title": "DISA comercial"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "df3963dc6a7f4123",
   "lastOpenFiles": [
+    "Python/Obtener Ip.md",
     "Python/Mail Sender.md",
     "Python/Lists.md",
     "Python/json.md",
@@ -233,7 +234,6 @@
     "Linux/lsof.md",
     "DISA/DISA comercial.md",
     "Sin título.md",
-    "Linux/journalctl.md",
     "DISA",
     "assets/nmcli-device-wifi-list.png",
     "assets/nmcli-device-wifi-connect.png",
