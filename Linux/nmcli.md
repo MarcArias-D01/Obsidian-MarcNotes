@@ -1,9 +1,9 @@
 ---
 tags:
   - linux
-  - linux/arch
-  - linux/network
-  - linux/nmcli
+  - arch
+  - network
+  - nmcli
 ---
 
 Programa para trabajar con redes des de tu ordenador o servidor

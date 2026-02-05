@@ -1,3 +1,11 @@
+---
+tags:
+  - linux
+  - ubuntu
+  - lsof
+  - port
+---
+
 #linux/command/lsof 
 #linux/command/searchProcess 
 

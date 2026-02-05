@@ -2,8 +2,7 @@
 tags:
   - docker
   - linux
-  - linux/gpu
-  - docker/gpu
+  - gpu
 ---
 - [GPU]
 Docker es **una plataforma para desarrollar, enviar y ejecutar aplicaciones dentro de contenedores**. Dicho de forma más clara y práctica:

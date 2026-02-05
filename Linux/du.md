@@ -1,9 +1,10 @@
 ---
 tags:
   - linux
-  - linux/ubuntu
-  - linux/arch
-  - linux/disk-usage
+  - ubuntu
+  - arch
+  - disk-usage
+  - du
 ---
 
 # `du` = *disk usage*

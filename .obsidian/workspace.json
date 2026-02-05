@@ -8,47 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97e79c9d291d635c",
+            "id": "7eff73f2590a98e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DISA/DISA comercial.md",
+                "file": "Eninter/Reunión 05-02-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DISA comercial"
+              "title": "Reunión 05-02-2026"
             }
           },
           {
-            "id": "efbeb570e9b39251",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "9a2096b91018d297",
+            "id": "a532c60ddecd7603",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Encontrar valores en tabla.md",
+                "file": "Eninter/Reunión 05-02-2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encontrar valores en tabla"
+              "title": "Reunión 05-02-2026"
+            }
+          },
+          {
+            "id": "d7dd2d2fd9cb3d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,21 +235,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a2096b91018d297",
+  "active": "a532c60ddecd7603",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "SQL/Encontrar valores en tabla.md",
+    "Eninter/Reunión 05-02-2026.md",
+    "SQL/Eliminar Logs MSQL.md",
+    "SQL/Espacio DB.md",
     "DISA/DISA comercial.md",
+    "2026-02-02.md",
+    "SQL/Creación Columnas Tabla.md",
+    "Python/Encrypt values.md",
+    "SQL/Encontrar valores en tabla.md",
     "Win/scp.md",
     "Sin título.md",
     "Python/Obtener Ip.md",
     "Linux/scp.md",
     "Linux/groups.md",
     "TEST_devOPS.md",
-    "SQL/Eliminar Logs MSQL.md",
     "SQL/Eliminar Constraints.md",
     "SQL/DESTRUIR Oddo.md",
-    "SQL/Creación Columnas Tabla.md",
     "Win/temp.md",
     "DISA",
     "2026-01-26.md",
@@ -258,9 +264,6 @@
     "SQL/Insert Data.md",
     "Linux/pwd.md",
     "Linux/passwd.md",
-    "Linux/pacman.md",
-    "Linux/ip.md",
-    "Linux/nmcli.md",
     "assets/nmcli-dev-wifi-list.png",
     "assets/linux-pwd.png",
     "assets/linux-ls.png",
@@ -271,7 +274,6 @@
     "assets/nmcli-device-wifi-connect.png",
     "assets/nmcli-device-wifi-list.png",
     "assets/nmcli-device-wifi-connect-password.png",
-    "ToDo.md",
     "Untitled",
     "Untitled/Sin confirmar 974409.crdownload",
     "SQL",

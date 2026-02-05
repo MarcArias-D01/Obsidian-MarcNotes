@@ -56,11 +56,10 @@ No debería haber ningún conflicto de intereses con otros clientes de D01.
 ---
 
 Trading DISA --> barcos DISA
-DISA --> barcos DISA
+DISA Logística --> barcos DISA
 ENDESA --> casi siempre su barco solo a veces si transporta Gasoil eléctrico
 CEPSA --> barcos DISA
 Naviera --> Propietaria de los barcos. Tienen que saber la programación.
 
 
-MASTICABOTELLAS
 
