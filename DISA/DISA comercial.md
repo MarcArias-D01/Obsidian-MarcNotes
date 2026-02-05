@@ -21,7 +21,7 @@ Problemas con las descargas de barcos. Mucho follón.
 Recomendación de eliminar el suministro en algunas islas. No les sale a cuenta. No tienen ningún beneficio. Ofrecen servicios estratégicos. 
 
 ---
-**Tienen 3 barcos.**
+**Tienen 3 barcos.** NAVIERA
 - **2 gaseros**
 - **1 líquidos**
 En cada isla suele haber solo un atraque, mucha interferencia con otros barcos de turismo (tienen preferencia).
@@ -54,7 +54,6 @@ Edad media de plantilla elevada. No tienen mucha capacidad para optimizar su pro
 No debería haber ningún conflicto de intereses con otros clientes de D01.
 
 ---
-
 Trading DISA --> barcos DISA
 DISA Logística --> barcos DISA
 ENDESA --> casi siempre su barco solo a veces si transporta Gasoil eléctrico

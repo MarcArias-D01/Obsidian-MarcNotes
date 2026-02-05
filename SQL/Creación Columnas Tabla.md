@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
 Escribe como la creación de las columnas de una tabla de SQL. 
 

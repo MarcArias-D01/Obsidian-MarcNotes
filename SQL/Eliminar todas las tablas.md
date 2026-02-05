@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
 OJO!!!
 Elimina todas las tablas de la BBDD.

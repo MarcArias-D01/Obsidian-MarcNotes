@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
 Devuelve una lista de todas las relaciones que tiene con otra tabla una tabla de SQL
 

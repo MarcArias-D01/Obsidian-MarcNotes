@@ -1,7 +1,7 @@
 ---
 tags:
   - python
-  - python/mail
+  - mail
 ---
 
 Función para enviar mail des de outlook cuenta empresa.

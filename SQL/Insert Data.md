@@ -1,7 +1,8 @@
 ---
 tags:
-  - SQL/MSQL
   - ETL
+  - SQL
+  - MSQL
 ---
 Este es un Ejemplo de una ETL en SQL. Creamos las tablas temporales transformadas en las que hay que hacer `JOIN` y se hace la carga por batches para no saturar la memoria del servidor.
 

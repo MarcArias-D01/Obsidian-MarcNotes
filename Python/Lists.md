@@ -1,7 +1,7 @@
 ---
 tags:
   - python
-  - python/list
+  - list
 ---
 ## Crear lista
 ```python

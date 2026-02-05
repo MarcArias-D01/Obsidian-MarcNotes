@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
 Ver todos los procesos que se estanejecutando en una BBDD.
 

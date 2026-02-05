@@ -1,6 +1,7 @@
 ---
 tags:
-  - SQL/MSQL
+  - SQL
+  - MSQL
 ---
 Mover la ubicación de una BBDD. Primero tienes que ejecutar la parte hasta el ROLBACKIMMEDIATE.
 Mover la ubicación del archivo de path_old a path_new. Seguidamente ejecutar las siguientes lineas.
