@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/nmcli.md",
+                "file": "SQL/Eliminar Logs MSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nmcli"
+              "title": "Eliminar Logs MSQL"
             }
           }
         ]
@@ -208,8 +208,13 @@
   },
   "active": "a67ba6ffb579ec9b",
   "lastOpenFiles": [
-    "Linux/pacman.md",
+    "SQL/MSQL Permissions.md",
+    "SQL/Mover BBDD SQL.md",
+    "SQL/Insert Data.md",
+    "SQL/Espacio Tablas BBDD.md",
+    "SQL/Espacio DB.md",
     "Linux/nmcli.md",
+    "Linux/pacman.md",
     "Linux/nginx.md",
     "Linux/lsof.md",
     "Linux/journalctl.md",
@@ -229,11 +234,6 @@
     "Sin título.md",
     "SQL/Creación Columnas Tabla.md",
     "conflict-files-obsidian-git.md",
-    "SQL/Eliminar Logs MSQL.md",
-    "SQL/Espacio DB.md",
-    "DISA/DISA comercial.md",
-    "2026-02-02.md",
-    "Python/Encrypt values.md",
     "DISA",
     "assets/nmcli-dev-wifi-list.png",
     "assets/linux-pwd.png",
