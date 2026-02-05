@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efe101e1d8127d0b",
+        "id": "99409260b7e4fc29",
         "type": "tabs",
         "children": [
           {
-            "id": "7eff73f2590a98e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eninter/Reunión 05-02-2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reunión 05-02-2026"
-            }
-          },
-          {
-            "id": "a532c60ddecd7603",
+            "id": "a67ba6ffb579ec9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Reunión 05-02-2026"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +33,7 @@
       {
         "id": "c20616f415637f44",
         "type": "tabs",
-        "dimension": 70.3030303030303,
+        "dimension": 75.75757575757575,
         "children": [
           {
             "id": "7b0673844deb8d51",
@@ -69,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#linux/configure",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,12 +78,12 @@
         ]
       },
       {
-        "id": "7a9aea0ff664db0d",
+        "id": "e5b6c4b06cab284c",
         "type": "tabs",
-        "dimension": 29.6969696969697,
+        "dimension": 24.242424242424242,
         "children": [
           {
-            "id": "865423ea665d5c19",
+            "id": "a532c60ddecd7603",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -209,8 +194,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -221,19 +206,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a532c60ddecd7603",
+  "active": "a67ba6ffb579ec9b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Linux/nginx.md",
+    "Linux/nmcli.md",
+    "Linux/pacman.md",
+    "Linux/lsof.md",
     "Eninter/Reunión 05-02-2026.md",
+    "Sin título.md",
+    "SQL/Creación Columnas Tabla.md",
+    "conflict-files-obsidian-git.md",
     "SQL/Eliminar Logs MSQL.md",
     "SQL/Espacio DB.md",
     "DISA/DISA comercial.md",
     "2026-02-02.md",
-    "SQL/Creación Columnas Tabla.md",
     "Python/Encrypt values.md",
     "SQL/Encontrar valores en tabla.md",
     "Win/scp.md",
-    "Sin título.md",
     "Python/Obtener Ip.md",
     "Linux/scp.md",
     "Linux/groups.md",
@@ -246,10 +235,6 @@
     "TEST.md",
     "Linux/hyprctl.md",
     "Linux/systemctl.md",
-    "SQL/Queries vistas.md",
-    "SQL/Insert Data.md",
-    "Linux/pwd.md",
-    "Linux/passwd.md",
     "assets/nmcli-dev-wifi-list.png",
     "assets/linux-pwd.png",
     "assets/linux-ls.png",

@@ -170,7 +170,9 @@
     "executions": 59,
     "systemctl": 60,
     "procedures": 61,
-    "automation": 62
+    "automation": 62,
+    "nginx": 63,
+    "configure": 64
   },
   "_version": 3
 }
