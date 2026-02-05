@@ -4,7 +4,6 @@ tags:
   - network
   - ip
 ---
-
 Comando par identificar las ips de tu servidor:
 
 ```bash

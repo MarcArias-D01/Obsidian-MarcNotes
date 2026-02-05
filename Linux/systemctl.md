@@ -7,7 +7,6 @@ tags:
   - procedures
   - automation
 ---
-
 `systemctl` es la herramienta de línea de comandos para interactuar con **systemd**, el sistema de inicio y gestor de servicios en Linux.
 
 Se usa para:

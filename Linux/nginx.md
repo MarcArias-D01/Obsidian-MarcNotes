@@ -1,13 +1,8 @@
 ---
 tags:
-<<<<<<< HEAD
-  - linux
-  - nginx
-=======
   - nginx
   - linux
   - ubuntu
->>>>>>> 05e7c3fa316f3b27ee4e7d8aaa3ef0614e3e75ef
 ---
 **Nginx** es un servidor web y proxy inverso de alto rendimiento. Se usa para:
 - Servir páginas web estáticas muy rápido.

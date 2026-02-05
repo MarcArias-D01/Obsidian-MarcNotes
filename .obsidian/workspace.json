@@ -13,20 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Eninter/Reunión 05-02-2026.md",
-=======
-                "file": "Linux/lsof.md",
->>>>>>> 05e7c3fa316f3b27ee4e7d8aaa3ef0614e3e75ef
+                "file": "Linux/nmcli.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Reunión 05-02-2026"
-=======
-              "title": "lsof"
->>>>>>> 05e7c3fa316f3b27ee4e7d8aaa3ef0614e3e75ef
+              "title": "nmcli"
             }
           }
         ]
@@ -41,7 +33,7 @@
       {
         "id": "c20616f415637f44",
         "type": "tabs",
-        "dimension": 75.75757575757575,
+        "dimension": 75.75757575757576,
         "children": [
           {
             "id": "7b0673844deb8d51",
@@ -216,11 +208,23 @@
   },
   "active": "a67ba6ffb579ec9b",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Linux/nginx.md",
-    "Linux/nmcli.md",
     "Linux/pacman.md",
+    "Linux/nmcli.md",
+    "Linux/nginx.md",
     "Linux/lsof.md",
+    "Linux/journalctl.md",
+    "Linux/ip.md",
+    "Linux/hyprctl.md",
+    "Linux/groups.md",
+    "Linux/git.md",
+    "Linux/du.md",
+    "Linux/docker.md",
+    "Linux/certbot.md",
+    "Linux/aws.md",
+    "Linux/systemctl.md",
+    "Linux/scp.md",
+    "Linux/pwd.md",
+    "Linux/passwd.md",
     "Eninter/Reunión 05-02-2026.md",
     "Sin título.md",
     "SQL/Creación Columnas Tabla.md",
@@ -230,52 +234,7 @@
     "DISA/DISA comercial.md",
     "2026-02-02.md",
     "Python/Encrypt values.md",
-    "SQL/Encontrar valores en tabla.md",
-    "Win/scp.md",
-    "Python/Obtener Ip.md",
-    "Linux/scp.md",
-    "Linux/groups.md",
-    "TEST_devOPS.md",
-    "SQL/Eliminar Constraints.md",
-    "SQL/DESTRUIR Oddo.md",
-    "Win/temp.md",
     "DISA",
-    "2026-01-26.md",
-    "TEST.md",
-    "Linux/hyprctl.md",
-    "Linux/systemctl.md",
-=======
-    "SQL/Mover BBDD SQL.md",
-    "DISA/DISA comercial.md",
-    "Python/Obtener Ip.md",
-    "Python/Mail Sender.md",
-    "Python/Lists.md",
-    "Python/json.md",
-    "Python/Encrypt values.md",
-    "SQL/Ver FK tabla relación tabla.md",
-    "SQL/Usuario sin BBDD.md",
-    "SQL/Relaciones tabla.md",
-    "SQL/Queries vistas.md",
-    "SQL/Proecesos Runing.md",
-    "SQL/Postgress Permissions.md",
-    "SQL/MSQL Permissions.md",
-    "SQL/Insert Data.md",
-    "SQL/Espacio Tablas BBDD.md",
-    "SQL/Espacio DB.md",
-    "SQL/Encontrar valores en tabla.md",
-    "SQL/Eliminar todas las tablas.md",
-    "SQL/Eliminar Logs MSQL.md",
-    "SQL/Eliminar Constraints.md",
-    "SQL/DESTRUIR Oddo.md",
-    "SQL/Creación Columnas Tabla.md",
-    "Linux/nginx.md",
-    "Linux/lsof.md",
-    "Sin título.md",
-    "DISA",
-    "assets/nmcli-device-wifi-list.png",
-    "assets/nmcli-device-wifi-connect.png",
-    "assets/nmcli-device-wifi-connect-password.png",
->>>>>>> 05e7c3fa316f3b27ee4e7d8aaa3ef0614e3e75ef
     "assets/nmcli-dev-wifi-list.png",
     "assets/linux-pwd.png",
     "assets/linux-ls.png",

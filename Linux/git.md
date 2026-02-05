@@ -4,7 +4,6 @@ tags:
   - ubuntu
   - git
 ---
-
 Para añadir varios usuarios en el gitconf dependiendo de el repositorio que estés trabajando. 
 
 Crea un gitconfig para ese usuario en la ruta `~/.` que sea `~/.gitconfig-user`

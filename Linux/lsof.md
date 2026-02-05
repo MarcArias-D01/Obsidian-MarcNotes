@@ -5,11 +5,8 @@ tags:
   - lsof
   - port
 ---
-<<<<<<< HEAD
 Abreviatura de *list open files* sirve para **listar todos los archivos que están abiertos actualmente por los procesos del sistema**. En Linux, _todo es un archivo_ (archivos, sockets, tuberías, dispositivos y conexiones de red), por lo que `lsof` es una herramienta muy potente para monitorear qué procesos están usando recursos del sistema.
-=======
-	Abreviatura de *list open files* sirve para **listar todos los archivos que están abiertos actualmente por los procesos del sistema**. En Linux, _todo es un archivo_ (archivos, sockets, tuberías, dispositivos y conexiones de red), por lo que `lsof` es una herramienta muy potente para monitorear qué procesos están usando recursos del sistema.
->>>>>>> 05e7c3fa316f3b27ee4e7d8aaa3ef0614e3e75ef
+
 ___
 ## Ejemplos útiles
 

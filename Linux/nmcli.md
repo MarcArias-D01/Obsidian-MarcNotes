@@ -5,7 +5,6 @@ tags:
   - network
   - nmcli
 ---
-
 Programa para trabajar con redes des de tu ordenador o servidor
 ## radio wifi
 

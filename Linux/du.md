@@ -6,7 +6,6 @@ tags:
   - disk-usage
   - du
 ---
-
 # `du` = *disk usage*
 
 Útil para saber el espacio en tu linux
