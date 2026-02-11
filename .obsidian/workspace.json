@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "lsof"
             }
+          },
+          {
+            "id": "1397d4e6fd0a0234",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a67ba6ffb579ec9b",
+  "active": "1397d4e6fd0a0234",
   "lastOpenFiles": [
     "SQL/Eliminar Logs MSQL.md",
     "SQL/MSQL Permissions.md",
