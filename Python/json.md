@@ -1,5 +1,8 @@
-#python/json/text
-
+---
+tags:
+  - python
+  - json
+---
 Recomendado para guardar / compartir datos
 ```python
 diccionario = {'test':'doc1' , 'test_test':'esto es un ejemplo'}
@@ -7,8 +10,8 @@ diccionario = {'test':'doc1' , 'test_test':'esto es un ejemplo'}
 texto_json = json.dumps(diccionario, ensure_ascii=False, indent=4)
 ```
 
-#python/json/create 
 
+Crear el json en diccionarioo
 ```python
 import json
 
@@ -17,8 +20,7 @@ diccionario = {'test':'doc1' , 'test_test':'esto es un ejemplo'}
 diccionario = dict(test = 'doc1', test_test = 'esto es un ejemplo')
 ```
 
-#python/json/open
-
+Abrir un archivo json
 ```python
 import json
 
@@ -26,8 +28,7 @@ with open("mi_diccionario.json", "r", encoding="utf-8") as f:
     d = json.load(f)
 ```
 
-#python/json/edit 
-
+Editar un json
 ```python 
 import json
 
@@ -58,8 +59,7 @@ for clave, valor in persona.items():
 
 ```
 
-#python/json/save 
-
+Guardar un archivo de json
 ```python
 import json
 

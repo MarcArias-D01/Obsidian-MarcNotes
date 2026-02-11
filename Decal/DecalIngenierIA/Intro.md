@@ -1,4 +1,8 @@
-#client/decal/IA
+---
+tags:
+  - decal
+  - IA
+---
 
 Ingeniero Marítimo de Decal se jubila.
 

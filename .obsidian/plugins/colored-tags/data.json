@@ -177,7 +177,10 @@
     "mail": 66,
     "MSQL": 67,
     "eninter": 68,
-    "marketing": 69
+    "marketing": 69,
+    "encrypt": 70,
+    "json": 71,
+    "decal": 72
   },
   "_version": 3
 }

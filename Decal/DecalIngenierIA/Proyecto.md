@@ -1,6 +1,8 @@
-
-#client/decal/IA
-
+---
+tags:
+  - decal
+  - IA
+---
 Git: [Driving01/DECAL-IngenierIA-OCR-API](https://github.com/Driving01/DECAL-IngenierIA-OCR-API)
 
 - [x] 18-09-2025 POC Decal IA Poder responder preguntas muy especificas de documentos ✅ 2025-09-19
