@@ -175,7 +175,9 @@
     "configure": 64,
     "list": 65,
     "mail": 66,
-    "MSQL": 67
+    "MSQL": 67,
+    "eninter": 68,
+    "marketing": 69
   },
   "_version": 3
 }
