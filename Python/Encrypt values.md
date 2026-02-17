@@ -1,5 +1,8 @@
-#python/encrypt
-
+---
+tags:
+  - python
+  - encrypt
+---
 Para encriptar valores:
 ```python 
 def xor_bytes(data: bytes, key: bytes) -> bytes:

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "99409260b7e4fc29",
+        "id": "dc3ed1a977d25241",
         "type": "tabs",
         "children": [
           {
-            "id": "a67ba6ffb579ec9b",
+            "id": "c97f44e537c9c8c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Eliminar Logs MSQL.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Eliminar Logs MSQL"
+              "title": "New tab"
             }
           }
         ]
@@ -54,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#linux/configure",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,34 +202,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a67ba6ffb579ec9b",
+  "active": "c97f44e537c9c8c0",
   "lastOpenFiles": [
+    "Eninter/Reunión 2026-02-11.md",
+    "Eninter/Reunión 2026-02-05.md",
+    "Eninter/Presentación Eninter.md",
+    "Win/scp.md",
+    "Win/temp.md",
+    "Althena/GTI/Resume.md",
+    "Althena/GTI/Proyecto.md",
+    "Althena/Intro.md",
+    "ChCh/Foundations and PowerServices.md",
+    "ChCh/Ejecuciones PowerServices.md",
+    "ChCh/Intro.md",
+    "REDD/Reunio Puig.md",
+    "REDD/Intro.md",
+    "REDD/Tareas.md",
+    "REDD/Proyecto Data.md",
+    "Decal/DecalIngenierIA/Intro.md",
+    "Decal/DecalIngenierIA/Proyecto.md",
+    "Decal/Intro.md",
+    "SQL/Ver FK tabla relación tabla.md",
+    "SQL/Usuario sin BBDD.md",
+    "SQL/Relaciones tabla.md",
+    "SQL/Queries vistas.md",
+    "SQL/Proecesos Runing.md",
+    "SQL/Postgress Permissions.md",
     "SQL/MSQL Permissions.md",
     "SQL/Mover BBDD SQL.md",
-    "SQL/Insert Data.md",
-    "SQL/Espacio Tablas BBDD.md",
-    "SQL/Espacio DB.md",
-    "Linux/nmcli.md",
-    "Linux/pacman.md",
-    "Linux/nginx.md",
-    "Linux/lsof.md",
-    "Linux/journalctl.md",
-    "Linux/ip.md",
-    "Linux/hyprctl.md",
-    "Linux/groups.md",
-    "Linux/git.md",
-    "Linux/du.md",
-    "Linux/docker.md",
-    "Linux/certbot.md",
-    "Linux/aws.md",
-    "Linux/systemctl.md",
-    "Linux/scp.md",
-    "Linux/pwd.md",
-    "Linux/passwd.md",
-    "Eninter/Reunión 05-02-2026.md",
-    "Sin título.md",
-    "SQL/Creación Columnas Tabla.md",
-    "conflict-files-obsidian-git.md",
+    "D01",
     "DISA",
     "assets/nmcli-dev-wifi-list.png",
     "assets/linux-pwd.png",
@@ -245,7 +242,6 @@
     "assets/nmcli-device-wifi-connect.png",
     "assets/nmcli-device-wifi-list.png",
     "assets/nmcli-device-wifi-connect-password.png",
-    "Untitled",
     "Untitled/Sin confirmar 974409.crdownload",
     "SQL",
     "Win",

@@ -175,7 +175,12 @@
     "configure": 64,
     "list": 65,
     "mail": 66,
-    "MSQL": 67
+    "MSQL": 67,
+    "eninter": 68,
+    "marketing": 69,
+    "encrypt": 70,
+    "json": 71,
+    "decal": 72
   },
   "_version": 3
 }

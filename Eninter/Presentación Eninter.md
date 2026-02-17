@@ -1,5 +1,9 @@
-#client/eninter
-
+---
+tags:
+  - eninter
+  - comercial
+  - marketing
+---
 Presentación de Eninter
 - ***Decarl Igenier IA***
 - Capacitad de ayudarlo hay que mostrar
@@ -25,9 +29,7 @@ Demo PerfettiVanMelle IA
 Portal TAFF
 Enseñar libreria de componenets Programación
 
-
 ___
-
 
 - Experiència Administració de Finques             NLP                                (etiquetatge automàtic d'incidències amb processament natural del llenguatge)
 

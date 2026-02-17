@@ -1,7 +1,7 @@
 ---
 tags:
   - windows
-<<<<<<< HEAD
+
   - command
   - clean
 ---
