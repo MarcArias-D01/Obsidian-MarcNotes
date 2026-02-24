@@ -25,12 +25,14 @@
             "id": "16fd13040b7fe133",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "SQL/Encontrar valores en tabla.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.11.7"
+              "icon": "lucide-file",
+              "title": "Encontrar valores en tabla"
             }
           }
         ],
