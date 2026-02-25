@@ -180,7 +180,8 @@
     "eninter": 69,
     "marketing": 70,
     "encrypt": 71,
-    "json": 72
+    "json": 72,
+    "xrdp": 73
   },
   "_version": 3
 }
