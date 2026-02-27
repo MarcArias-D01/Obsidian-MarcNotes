@@ -181,7 +181,10 @@
     "marketing": 70,
     "encrypt": 71,
     "json": 72,
-    "xrdp": 73
+    "xrdp": 73,
+    "u": 74,
+    "dns": 75,
+    "dnsmask": 76
   },
   "_version": 3
 }
