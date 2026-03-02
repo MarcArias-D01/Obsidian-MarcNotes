@@ -4,25 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "f387ed99c9709c8f",
+        "id": "6284bbcd8bf05c6e",
         "type": "tabs",
         "children": [
           {
-            "id": "cc02822d4a3b19fc",
+            "id": "2b6cacaedd56234d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/certbot.md",
+                "file": "Eninter/Reunión 2026-03-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "certbot"
+              "title": "Reunión 2026-03-05"
             }
           },
           {
-            "id": "93fc8eee167a9ad6",
+            "id": "a4f75a67ed5d13a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Encrypt values.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Encrypt values"
+            }
+          },
+          {
+            "id": "db7113f8e0afdead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Eliminar Logs MSQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eliminar Logs MSQL"
+            }
+          },
+          {
+            "id": "075477797ab3f13e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/scp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "scp"
+            }
+          },
+          {
+            "id": "0bb7d40ca306e9b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/groups.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "groups"
+            }
+          },
+          {
+            "id": "0388616f4455a8ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -48,7 +104,7 @@
       {
         "id": "c20616f415637f44",
         "type": "tabs",
-        "dimension": 75.75757575757576,
+        "dimension": 74.31749241658241,
         "children": [
           {
             "id": "7b0673844deb8d51",
@@ -69,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MSQL",
+                "query": "tag:#ip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,10 +151,10 @@
       {
         "id": "e5b6c4b06cab284c",
         "type": "tabs",
-        "dimension": 24.24242424242424,
+        "dimension": 25.682507583417593,
         "children": [
           {
-            "id": "a532c60ddecd7603",
+            "id": "215755e59488db3b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -221,34 +277,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93fc8eee167a9ad6",
+  "active": "0388616f4455a8ce",
   "lastOpenFiles": [
-    "Linux/ip.md",
-    "Linux/journalctl.md",
-    "ToDo.md",
-    "Linux/Crear Tunnel Ipsec.md",
-    "Linux/aws.md",
-    "Linux/certbot.md",
-    "2026-05-21.md",
-    "SQL/Usuario sin BBDD.md",
-    "Instalar Drivers Grafica AMD ALTHENA.md",
-    "Linux/lsof.md",
+    "conflict-files-obsidian-git.md",
     "SQL/Vista Indexada con FullText.md",
+    "Linux/Crear Tunnel Ipsec.md",
+    "Instalar Drivers Grafica AMD ALTHENA.md",
+    "2026-05-21.md",
+    "Python/CloudFlare API.md",
+    "Python/Encrypt values.md",
+    "Linux/groups.md",
     "Linux/scp.md",
     "Win/scp.md",
-    "Linux/dnsmask.md",
-    "SQL/Proecesos Runing.md",
-    "Linux/XRDP.md",
-    "Linux/hyprctl.md",
-    "Linux/systemctl.md",
-    "SQL/Encontrar valores en tabla.md",
     "SQL/Eliminar Logs MSQL.md",
-    "Eninter/Reunión 2026-02-11.md",
+    "Eninter/Reunión 2026-03-05.md",
+    "Eninter/Presentación Eninter.md",
+    "assets/nmcli-device-wifi-connect-password.png",
     "Eninter/Reunión 2026-02-05.md",
-    "DISA/Reunión 2026-01-26.md",
-    "SQL/MSQL Permissions.md",
-    "SQL/Mover BBDD SQL.md",
-    "SQL/Insert Data.md",
+    "Eninter/Reunión 2026-02-11.md",
+    "Python/Obtener Ip.md",
+    "Linux/journalctl.md",
+    "TEST.md",
+    "SQL/Encontrar valores en tabla.md",
+    "Linux/dnsmask.md",
+    "Linux/XRDP.md",
+    "Linux/docker.md",
+    "Win/temp.md",
+    "Althena/GTI/Resume.md",
+    "Althena/GTI/Proyecto.md",
+    "Althena/Intro.md",
+    "D01",
     "DISA",
     "assets/nmcli-dev-wifi-list.png",
     "assets/linux-pwd.png",
@@ -259,8 +317,6 @@
     "assets/nmcli-device-status.png",
     "assets/nmcli-device-wifi-connect.png",
     "assets/nmcli-device-wifi-list.png",
-    "assets/nmcli-device-wifi-connect-password.png",
-    "Untitled",
     "Untitled/Sin confirmar 974409.crdownload",
     "SQL",
     "Win",

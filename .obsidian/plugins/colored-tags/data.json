@@ -176,16 +176,17 @@
     "list": 65,
     "mail": 66,
     "MSQL": 67,
-    "decal": 68,
-    "eninter": 69,
-    "marketing": 70,
-    "encrypt": 71,
-    "json": 72,
+    "eninter": 68,
+    "marketing": 69,
+    "encrypt": 70,
+    "json": 71,
+    "decal": 72,
     "xrdp": 73,
-    "u": 74,
-    "dns": 75,
-    "dnsmask": 76,
-    "AMD": 77
+    "dns": 74,
+    "dnsmask": 75,
+    "cloudflare": 76,
+    "scrape": 77,
+    "AMD": 78
   },
   "_version": 3
 }
