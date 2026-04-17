@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/dnsmask.md",
+                "file": "SQL/Vista Indexada con FullText.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dnsmask"
+              "title": "Vista Indexada con FullText"
+            }
+          },
+          {
+            "id": "d815b6ea5936d8ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Registro de cambios 1.12.4"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,10 +233,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "851ead308c2ff58b",
+  "active": "d815b6ea5936d8ad",
   "lastOpenFiles": [
-    "Linux/lsof.md",
     "Linux/dnsmask.md",
+    "SQL/Vista Indexada con FullText.md",
+    "Linux/lsof.md",
     "Linux/XRDP.md",
     "Linux/hyprctl.md",
     "Linux/systemctl.md",
@@ -248,7 +261,6 @@
     "Linux/du.md",
     "Linux/docker.md",
     "Linux/certbot.md",
-    "Linux/aws.md",
     "DISA",
     "assets/nmcli-dev-wifi-list.png",
     "assets/linux-pwd.png",
