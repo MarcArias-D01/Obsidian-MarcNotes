@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/Proecesos Runing.md",
+                "file": "Linux/dnsmask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proecesos Runing"
-            }
-          },
-          {
-            "id": "897b6611a1e9f2e4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Registro de cambios 1.12.7"
+              "title": "dnsmask"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,8 +235,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "897b6611a1e9f2e4",
+  "active": "d815b6ea5936d8ad",
   "lastOpenFiles": [
+    "SQL/Proecesos Runing.md",
     "Linux/dnsmask.md",
     "SQL/Vista Indexada con FullText.md",
     "Linux/lsof.md",
@@ -274,7 +263,6 @@
     "Linux/git.md",
     "Linux/du.md",
     "Linux/docker.md",
-    "Linux/certbot.md",
     "DISA",
     "assets/nmcli-dev-wifi-list.png",
     "assets/linux-pwd.png",
