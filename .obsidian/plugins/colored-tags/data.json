@@ -184,7 +184,8 @@
     "xrdp": 73,
     "u": 74,
     "dns": 75,
-    "dnsmask": 76
+    "dnsmask": 76,
+    "AMD": 77
   },
   "_version": 3
 }
