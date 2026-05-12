@@ -33,3 +33,9 @@ sudo modprobe amdgpu
 
 Fallo debido a que no puede acceder a donde esta la gráfico seguramente a que esta virtualizada. Se queda sin hacer nada. Realizamos un `rebot`
 
+
+Ubuntu Noble tiene paquetes para ROCm directamente en sus repositorios oficiales. Prueba esto:
+```bash
+sudo apt install libamd-comgr2 librocm-smi64-1 rock-dkms-firmware -y
+```
+
