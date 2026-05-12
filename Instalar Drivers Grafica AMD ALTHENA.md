@@ -37,5 +37,31 @@ Fallo debido a que no puede acceder a donde esta la gráfico seguramente a que e
 Ubuntu Noble tiene paquetes para ROCm directamente en sus repositorios oficiales. Prueba esto:
 ```bash
 sudo apt install libamd-comgr2 librocm-smi64-1 rock-dkms-firmware -y
+sudo apt install xserver-xorg-video-amdgpu -y
 ```
 
+Comprobación
+Ejecuta este comando y busca la línea **"Kernel driver in use"**:
+```bash
+lspci -nnk -s 0002:00:00.0
+```
+
+El resultado confirma el diagnóstico: el sistema sabe que la tarjeta está ahí y sabe que debería usar el módulo `amdgpu`, pero **no hay un driver activo** (falta la línea `Kernel driver in use`).
+
+En las máquinas virtuales de Azure con GPUs AMD (series NVv4), esto ocurre casi siempre porque el sistema intenta cargar el driver estándar, pero al ser una **MxGPU** (una GPU particionada virtualmente), necesita una configuración específica para "saltarse" ciertas comprobaciones de hardware real.
+
+```bash
+echo "options amdgpu virtual_display=1" | sudo tee /etc/modprobe.d/amdgpu.conf
+```
+
+Esto hace que la configuración se cargue desde el inicio del arranque del servidor:
+```bash
+sudo update-initramfs -u
+```
+
+HACER RESET `reboot`
+
+Para saber si se puede usar ollama con gpu:
+```bash
+ls -l /dev/dri/renderD*
+```
