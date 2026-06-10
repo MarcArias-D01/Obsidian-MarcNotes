@@ -10,7 +10,7 @@ Partes del proyecto:
 - [x] Althena Improvement (clasificación mejorada) ✅ 2025-10-02
 - [x] ⛔ Arreglar etiquetas mal etiquetadas por el modelo fase 1 ✅ 2025-10-02
 - [x] Althena mejorar API fase 1 ✅ 2025-10-02
-- [ ] Migrar API a waluigi
+- [x] Migrar API a waluigi ✅ 2026-05-29
 - [ ] Testing API
 - [ ] ⛔ Detector de keywords Mejorarlo fase 1
 - [ ] Creación Qdrant DB 
