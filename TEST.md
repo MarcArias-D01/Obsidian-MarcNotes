@@ -1,5 +1,5 @@
 # Auditoría y análisis de actividad en AWS con **CloudTrail**, **Athena** y automatización con **EventBridge**
-
+                       
 ## Introducción
 Esta sesión repasa conceptos de observabilidad y se centra en **monitorizar la cuenta de AWS** (no la infraestructura interna) usando **AWS CloudTrail**. Se cubren tipos de eventos, retención, costes, opciones de almacenamiento (**S3** vs **CloudTrail Lake**) y consulta de logs con **Amazon Athena**. Finalmente, se propone un laboratorio práctico para **detectar actividad anómala** provocada por un contenedor y **notificar eventos** mediante **EventBridge**.
 

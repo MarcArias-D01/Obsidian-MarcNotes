@@ -185,8 +185,7 @@
     "dns": 74,
     "dnsmask": 75,
     "cloudflare": 76,
-    "scrape": 77,
-    "AMD": 78
+    "scrape": 77
   },
   "_version": 3
 }
